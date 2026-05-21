@@ -3,8 +3,8 @@
     {
       "Id": 1,
       "Question": "Welches Land wird am stärksten mit Sushi als traditionellem Gericht verbunden?",
-      "Answer1": "Deutschland",
-      "Answer2": "Brasilien",
+      "Answer1": "Thailand",
+      "Answer2": "China",
       "Answer3": "Japan",
       "CorrectAnswer": "Japan",
       "ImagePrompt": "sushi_japan.jpg"
@@ -75,18 +75,18 @@
     {
       "Id": 9,
       "Question": "Welches Land ist besonders für Hummus und Falafel als Alltagsgerichte bekannt?",
-      "Answer1": "Israel",
-      "Answer2": "Irland",
-      "Answer3": "Argentinien",
+      "Answer1": "Egypt",
+      "Answer2": "Turkey",
+      "Answer3": "Israel",
       "CorrectAnswer": "Israel",
       "ImagePrompt": "israeli_falafel.jpg"
     },
     {
       "Id": 10,
       "Question": "Welches Land ist für Dim Sum und Gerichte wie Teigtaschen und Frühlingsrollen berühmt?",
-      "Answer1": "Brasilien",
-      "Answer2": "China",
-      "Answer3": "Polen",
+      "Answer1": "Vietnam",
+      "Answer2": "Japan",
+      "Answer3": "China",
       "CorrectAnswer": "China",
       "ImagePrompt": "chinese_dim_sum.jpg"
     },
@@ -147,9 +147,9 @@
     {
       "Id": 17,
       "Question": "Welches Land ist am bekanntesten für Pho, eine aromatische Nudelsuppe?",
-      "Answer1": "Vietnam",
-      "Answer2": "Schweden",
-      "Answer3": "Portugal",
+      "Answer1": "Philippines",
+      "Answer2": "China",
+      "Answer3": "Vietnam",
       "CorrectAnswer": "Vietnam",
       "ImagePrompt": "vietnamese_pho.jpg"
     },
@@ -166,8 +166,8 @@
       "Id": 19,
       "Question": "Welches Land ist für Jollof-Reis als beliebtes westafrikanisches Gericht bekannt?",
       "Answer1": "Ghana",
-      "Answer2": "Japan",
-      "Answer3": "Kanada",
+      "Answer2": "Nigeria",
+      "Answer3": "Senegal",
       "CorrectAnswer": "Ghana",
       "ImagePrompt": "ghanaian_jollof_rice.jpg"
     },
@@ -192,9 +192,9 @@
     {
       "Id": 22,
       "Question": "Ramen ist eine beliebte Nudelsuppe, die ursprünglich aus welchem Land stammt?",
-      "Answer1": "Griechenland",
-      "Answer2": "Marokko",
-      "Answer3": "Japan",
+      "Answer1": "Japan",
+      "Answer2": "Thailand",
+      "Answer3": "South Korea",
       "CorrectAnswer": "Japan",
       "ImagePrompt": "japanese_ramen.jpg"
     },
@@ -318,9 +318,9 @@
     {
       "Id": 36,
       "Question": "Ceviche, ein Gericht aus rohem Fisch, der in Zitrussaft mariniert wird, ist besonders mit welchem südamerikanischen Land verbunden?",
-      "Answer1": "Ägypten",
-      "Answer2": "Norwegen",
-      "Answer3": "Peru",
+      "Answer1": "Peru",
+      "Answer2": "Chile",
+      "Answer3": "Colombia",
       "CorrectAnswer": "Peru",
       "ImagePrompt": "peruvian_ceviche.jpg"
     },

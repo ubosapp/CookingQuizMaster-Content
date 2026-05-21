@@ -30,9 +30,9 @@
     {
       "Id": 4,
       "Question": "¿Qué país se asocia tradicionalmente con curris como el tikka masala y el biryani?",
-      "Answer1": "India",
-      "Answer2": "Chile",
-      "Answer3": "Finlandia",
+      "Answer1": "Pakistan",
+      "Answer2": "Bangladesh",
+      "Answer3": "India",
       "CorrectAnswer": "India",
       "ImagePrompt": "indian_curry.jpg"
     },
@@ -75,8 +75,8 @@
     {
       "Id": 9,
       "Question": "¿Qué país es más conocido por el hummus y el falafel como alimentos cotidianos?",
-      "Answer1": "Irlanda",
-      "Answer2": "Argentina",
+      "Answer1": "Turkey",
+      "Answer2": "Lebanon",
       "Answer3": "Israel",
       "CorrectAnswer": "Israel",
       "ImagePrompt": "israeli_falafel.jpg"
@@ -84,9 +84,9 @@
     {
       "Id": 10,
       "Question": "¿Qué país es famoso por el dim sum y platos como empanadillas y rollitos de primavera?",
-      "Answer1": "Brasil",
-      "Answer2": "China",
-      "Answer3": "Polonia",
+      "Answer1": "South Korea",
+      "Answer2": "Vietnam",
+      "Answer3": "China",
       "CorrectAnswer": "China",
       "ImagePrompt": "chinese_dim_sum.jpg"
     },
@@ -138,36 +138,36 @@
     {
       "Id": 16,
       "Question": "¿Qué país se asocia tradicionalmente con el Wiener Schnitzel, una chuleta de ternera empanada?",
-      "Answer1": "Japón",
-      "Answer2": "Kenia",
-      "Answer3": "Austria",
+      "Answer1": "Germany",
+      "Answer2": "Austria",
+      "Answer3": "Hungary",
       "CorrectAnswer": "Austria",
       "ImagePrompt": "austrian_wiener_schnitzel.jpg"
     },
     {
       "Id": 17,
       "Question": "¿Qué país es más conocido por el pho, una fragante sopa de fideos?",
-      "Answer1": "Portugal",
+      "Answer1": "Philippines",
       "Answer2": "Vietnam",
-      "Answer3": "Suecia",
+      "Answer3": "Thailand",
       "CorrectAnswer": "Vietnam",
       "ImagePrompt": "vietnamese_pho.jpg"
     },
     {
       "Id": 18,
       "Question": "¿Qué país es famoso por el plato nacional llamado asado, un estilo de carne a la parrilla?",
-      "Answer1": "Finlandia",
-      "Answer2": "India",
-      "Answer3": "Argentina",
+      "Answer1": "Argentina",
+      "Answer2": "Uruguay",
+      "Answer3": "Chile",
       "CorrectAnswer": "Argentina",
       "ImagePrompt": "argentinian_asado.jpg"
     },
     {
       "Id": 19,
       "Question": "¿Qué país es conocido por el jollof rice como un plato popular de África occidental?",
-      "Answer1": "Canadá",
-      "Answer2": "Japón",
-      "Answer3": "Ghana",
+      "Answer1": "Ghana",
+      "Answer2": "Nigeria",
+      "Answer3": "Senegal",
       "CorrectAnswer": "Ghana",
       "ImagePrompt": "ghanaian_jollof_rice.jpg"
     },

@@ -39,8 +39,8 @@
     {
       "Id": 5,
       "Question": "Quel pays est célèbre pour les croissants et les baguettes ?",
-      "Answer1": "Canada",
-      "Answer2": "Égypte",
+      "Answer1": "Belgium",
+      "Answer2": "Switzerland",
       "Answer3": "France",
       "CorrectAnswer": "France",
       "ImagePrompt": "french_croissant.jpg"
@@ -66,9 +66,9 @@
     {
       "Id": 8,
       "Question": "Quel pays est célèbre pour le plat traditionnel appelé poutine, fait de frites, de fromage en grains et de sauce ?",
-      "Answer1": "Maroc",
-      "Answer2": "Canada",
-      "Answer3": "Viêt Nam",
+      "Answer1": "United States",
+      "Answer2": "France",
+      "Answer3": "Canada",
       "CorrectAnswer": "Canada",
       "ImagePrompt": "canadian_poutine.jpg"
     },
@@ -165,9 +165,9 @@
     {
       "Id": 19,
       "Question": "Quel pays est connu pour le jollof rice comme plat populaire d’Afrique de l’Ouest ?",
-      "Answer1": "Canada",
-      "Answer2": "Japon",
-      "Answer3": "Ghana",
+      "Answer1": "Ghana",
+      "Answer2": "Ivory Coast",
+      "Answer3": "Nigeria",
       "CorrectAnswer": "Ghana",
       "ImagePrompt": "ghanaian_jollof_rice.jpg"
     },

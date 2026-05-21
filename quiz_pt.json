@@ -75,18 +75,18 @@
     {
       "Id": 9,
       "Question": "Qual país é mais conhecido por homus e falafel como alimentos do dia a dia?",
-      "Answer1": "Argentina",
+      "Answer1": "Lebanon",
       "Answer2": "Israel",
-      "Answer3": "Irlanda",
+      "Answer3": "Turkey",
       "CorrectAnswer": "Israel",
       "ImagePrompt": "israeli_falafel.jpg"
     },
     {
       "Id": 10,
       "Question": "Qual país é famoso por dim sum e pratos como bolinhos e rolinhos primavera?",
-      "Answer1": "Brasil",
-      "Answer2": "Polônia",
-      "Answer3": "China",
+      "Answer1": "China",
+      "Answer2": "South Korea",
+      "Answer3": "Vietnam",
       "CorrectAnswer": "China",
       "ImagePrompt": "chinese_dim_sum.jpg"
     },
@@ -156,8 +156,8 @@
     {
       "Id": 18,
       "Question": "Qual país é famoso pelo prato nacional chamado asado, um estilo de carne grelhada?",
-      "Answer1": "Finlândia",
-      "Answer2": "Índia",
+      "Answer1": "Chile",
+      "Answer2": "Uruguay",
       "Answer3": "Argentina",
       "CorrectAnswer": "Argentina",
       "ImagePrompt": "argentinian_asado.jpg"
@@ -318,9 +318,9 @@
     {
       "Id": 36,
       "Question": "Ceviche, um prato de peixe cru marinado em suco de frutas cítricas, é especialmente associado a qual país sul-americano?",
-      "Answer1": "Noruega",
-      "Answer2": "Egito",
-      "Answer3": "Peru",
+      "Answer1": "Chile",
+      "Answer2": "Peru",
+      "Answer3": "Ecuador",
       "CorrectAnswer": "Peru",
       "ImagePrompt": "peruvian_ceviche.jpg"
     },
