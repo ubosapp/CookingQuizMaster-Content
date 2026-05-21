@@ -1,0 +1,908 @@
+{
+  "Questions": [
+    {
+      "Id": 1,
+      "Question": "Quale paese è più associato al sushi come piatto tradizionale?",
+      "Answer1": "Giappone",
+      "Answer2": "Brasile",
+      "Answer3": "Germania",
+      "CorrectAnswer": "Giappone",
+      "ImagePrompt": "sushi_japan.jpg"
+    },
+    {
+      "Id": 2,
+      "Question": "Quale paese è famoso per la pizza come piatto nazionale?",
+      "Answer1": "Italia",
+      "Answer2": "Cina",
+      "Answer3": "Norvegia",
+      "CorrectAnswer": "Italia",
+      "ImagePrompt": "italian_pizza.jpg"
+    },
+    {
+      "Id": 3,
+      "Question": "Quale paese è meglio conosciuto per i tacos?",
+      "Answer1": "Messico",
+      "Answer2": "Russia",
+      "Answer3": "Svezia",
+      "CorrectAnswer": "Messico",
+      "ImagePrompt": "mexican_tacos.jpg"
+    },
+    {
+      "Id": 4,
+      "Question": "Quale paese è tradizionalmente associato a piatti di curry come tikka masala e biryani?",
+      "Answer1": "India",
+      "Answer2": "Finlandia",
+      "Answer3": "Cile",
+      "CorrectAnswer": "India",
+      "ImagePrompt": "indian_curry.jpg"
+    },
+    {
+      "Id": 5,
+      "Question": "Quale paese è famoso per croissant e baguette?",
+      "Answer1": "Francia",
+      "Answer2": "Canada",
+      "Answer3": "Egitto",
+      "CorrectAnswer": "Francia",
+      "ImagePrompt": "french_croissant.jpg"
+    },
+    {
+      "Id": 6,
+      "Question": "La paella è un famoso piatto di riso di quale paese?",
+      "Answer1": "Spagna",
+      "Answer2": "Giappone",
+      "Answer3": "Sudafrica",
+      "CorrectAnswer": "Spagna",
+      "ImagePrompt": "spanish_paella.jpg"
+    },
+    {
+      "Id": 7,
+      "Question": "Fish and chips è un piatto classico di quale paese?",
+      "Answer1": "Regno Unito",
+      "Answer2": "Thailandia",
+      "Answer3": "Perù",
+      "CorrectAnswer": "Regno Unito",
+      "ImagePrompt": "british_fish_and_chips.jpg"
+    },
+    {
+      "Id": 8,
+      "Question": "Quale paese è famoso per il piatto tradizionale chiamato poutine, fatto con patatine fritte, cagliata di formaggio e salsa?",
+      "Answer1": "Canada",
+      "Answer2": "Marocco",
+      "Answer3": "Vietnam",
+      "CorrectAnswer": "Canada",
+      "ImagePrompt": "canadian_poutine.jpg"
+    },
+    {
+      "Id": 9,
+      "Question": "Quale paese è meglio conosciuto per hummus e falafel come cibi quotidiani?",
+      "Answer1": "Israele",
+      "Answer2": "Irlanda",
+      "Answer3": "Argentina",
+      "CorrectAnswer": "Israele",
+      "ImagePrompt": "israeli_falafel.jpg"
+    },
+    {
+      "Id": 10,
+      "Question": "Quale paese è famoso per il dim sum e piatti come ravioli e involtini primavera?",
+      "Answer1": "Cina",
+      "Answer2": "Brasile",
+      "Answer3": "Polonia",
+      "CorrectAnswer": "Cina",
+      "ImagePrompt": "chinese_dim_sum.jpg"
+    },
+    {
+      "Id": 11,
+      "Question": "Quale paese è fortemente legato a crauti e salsicce come cibi tradizionali?",
+      "Answer1": "Germania",
+      "Answer2": "Malaysia",
+      "Answer3": "Messico",
+      "CorrectAnswer": "Germania",
+      "ImagePrompt": "german_sausages_sauerkraut.jpg"
+    },
+    {
+      "Id": 12,
+      "Question": "Quale paese è famoso per la feijoada, uno stufato sostanzioso di fagioli e carne?",
+      "Answer1": "Brasile",
+      "Answer2": "Giappone",
+      "Answer3": "Svizzera",
+      "CorrectAnswer": "Brasile",
+      "ImagePrompt": "brazilian_feijoada.jpg"
+    },
+    {
+      "Id": 13,
+      "Question": "In quale paese il kimchi, un piatto di cavolo fermentato piccante, è un alimento base?",
+      "Answer1": "Corea del Sud",
+      "Answer2": "Australia",
+      "Answer3": "Grecia",
+      "CorrectAnswer": "Corea del Sud",
+      "ImagePrompt": "korean_kimchi.jpg"
+    },
+    {
+      "Id": 14,
+      "Question": "Quale paese è conosciuto per il couscous come piatto base tradizionale?",
+      "Answer1": "Algeria",
+      "Answer2": "Islanda",
+      "Answer3": "Nuova Zelanda",
+      "CorrectAnswer": "Algeria",
+      "ImagePrompt": "algerian_couscous.jpg"
+    },
+    {
+      "Id": 15,
+      "Question": "Quale paese è famoso per il piatto nazionale chiamato Irish stew, fatto con agnello o manzo e verdure?",
+      "Answer1": "Irlanda",
+      "Answer2": "Thailandia",
+      "Answer3": "Perù",
+      "CorrectAnswer": "Irlanda",
+      "ImagePrompt": "irish_stew.jpg"
+    },
+    {
+      "Id": 16,
+      "Question": "Quale paese è tradizionalmente associato al Wiener Schnitzel, una cotoletta di vitello impanata?",
+      "Answer1": "Austria",
+      "Answer2": "Giappone",
+      "Answer3": "Kenya",
+      "CorrectAnswer": "Austria",
+      "ImagePrompt": "austrian_wiener_schnitzel.jpg"
+    },
+    {
+      "Id": 17,
+      "Question": "Quale paese è meglio conosciuto per il pho, una profumata zuppa di noodle?",
+      "Answer1": "Vietnam",
+      "Answer2": "Portogallo",
+      "Answer3": "Svezia",
+      "CorrectAnswer": "Vietnam",
+      "ImagePrompt": "vietnamese_pho.jpg"
+    },
+    {
+      "Id": 18,
+      "Question": "Quale paese è famoso per il piatto nazionale chiamato asado, uno stile di carne alla griglia?",
+      "Answer1": "Argentina",
+      "Answer2": "India",
+      "Answer3": "Finlandia",
+      "CorrectAnswer": "Argentina",
+      "ImagePrompt": "argentinian_asado.jpg"
+    },
+    {
+      "Id": 19,
+      "Question": "Quale paese è conosciuto per il jollof rice come popolare piatto dell'Africa occidentale?",
+      "Answer1": "Ghana",
+      "Answer2": "Giappone",
+      "Answer3": "Canada",
+      "CorrectAnswer": "Ghana",
+      "ImagePrompt": "ghanaian_jollof_rice.jpg"
+    },
+    {
+      "Id": 20,
+      "Question": "Il beshbarmak, un piatto di carne bollita e tagliatelle, è un piatto nazionale di quale paese?",
+      "Answer1": "Kazakistan",
+      "Answer2": "Italia",
+      "Answer3": "Messico",
+      "CorrectAnswer": "Kazakistan",
+      "ImagePrompt": "kazakh_beshbarmak.jpg"
+    },
+
+    {
+      "Id": 21,
+      "Question": "Quale formaggio si usa tradizionalmente su una classica pizza Margherita napoletana?",
+      "Answer1": "Mozzarella",
+      "Answer2": "Cheddar",
+      "Answer3": "Feta",
+      "CorrectAnswer": "Mozzarella",
+      "ImagePrompt": "mozzarella_pizza.jpg"
+    },
+    {
+      "Id": 22,
+      "Question": "Il ramen è una popolare zuppa di noodle originaria di quale paese?",
+      "Answer1": "Giappone",
+      "Answer2": "Grecia",
+      "Answer3": "Marocco",
+      "CorrectAnswer": "Giappone",
+      "ImagePrompt": "japanese_ramen.jpg"
+    },
+    {
+      "Id": 23,
+      "Question": "Quale metodo di cottura prevede di friggere rapidamente il cibo in poco olio molto caldo, spesso usato nella cucina cinese?",
+      "Answer1": "Saltare in padella",
+      "Answer2": "Bollire",
+      "Answer3": "Cuocere al vapore",
+      "CorrectAnswer": "Saltare in padella",
+      "ImagePrompt": "stir_frying_wok.jpg"
+    },
+    {
+      "Id": 24,
+      "Question": "Nella cucina italiana, quale tipo di riso si usa tipicamente per preparare il risotto?",
+      "Answer1": "Arborio",
+      "Answer2": "Basmati",
+      "Answer3": "Jasmine",
+      "CorrectAnswer": "Arborio",
+      "ImagePrompt": "arborio_risotto.jpg"
+    },
+    {
+      "Id": 25,
+      "Question": "Quale paese è noto per il gulasch, uno stufato condito con paprika?",
+      "Answer1": "Ungheria",
+      "Answer2": "Canada",
+      "Answer3": "Indonesia",
+      "CorrectAnswer": "Ungheria",
+      "ImagePrompt": "hungarian_goulash.jpg"
+    },
+    {
+      "Id": 26,
+      "Question": "Quale piatto di pasta italiano è tradizionalmente preparato con uova, carne di maiale stagionata, formaggio e pepe nero, senza panna?",
+      "Answer1": "Carbonara",
+      "Answer2": "Lasagna",
+      "Answer3": "Pesto",
+      "CorrectAnswer": "Carbonara",
+      "ImagePrompt": "italian_carbonara.jpg"
+    },
+    {
+      "Id": 27,
+      "Question": "Quale piatto mediorientale consiste in carne macinata alla griglia, spesso servita su uno spiedo?",
+      "Answer1": "Kebab",
+      "Answer2": "Sushi",
+      "Answer3": "Paella",
+      "CorrectAnswer": "Kebab",
+      "ImagePrompt": "middle_eastern_kebab.jpg"
+    },
+    {
+      "Id": 28,
+      "Question": "Quale piatto francese è una casseruola a cottura lenta di fagioli bianchi e carne, spesso anatra o salsiccia?",
+      "Answer1": "Cassoulet",
+      "Answer2": "Ratatouille",
+      "Answer3": "Bouillabaisse",
+      "CorrectAnswer": "Cassoulet",
+      "ImagePrompt": "french_cassoulet.jpg"
+    },
+    {
+      "Id": 29,
+      "Question": "Quale pasta rossa piccante a base di peperoncini è un ingrediente chiave in molti piatti coreani?",
+      "Answer1": "Gochujang",
+      "Answer2": "Wasabi",
+      "Answer3": "Pesto",
+      "CorrectAnswer": "Gochujang",
+      "ImagePrompt": "korean_gochujang_paste.jpg"
+    },
+    {
+      "Id": 30,
+      "Question": "Quale classico concetto spagnolo indica piccoli piatti di cibo, come olive, formaggi e frutti di mare, serviti come snack?",
+      "Answer1": "Tapas",
+      "Answer2": "Dim sum",
+      "Answer3": "Meze",
+      "CorrectAnswer": "Tapas",
+      "ImagePrompt": "spanish_tapas.jpg"
+    },
+    {
+      "Id": 31,
+      "Question": "Quale piatto greco è fatto a strati di melanzane, carne macinata e salsa besciamella, cotto al forno?",
+      "Answer1": "Moussaka",
+      "Answer2": "Souvlaki",
+      "Answer3": "Gyros",
+      "CorrectAnswer": "Moussaka",
+      "ImagePrompt": "greek_moussaka.jpg"
+    },
+    {
+      "Id": 32,
+      "Question": "Quale piatto nordafricano è uno stufato a cottura lenta, spesso di agnello o pollo con verdure, cotto in una pentola conica?",
+      "Answer1": "Tajine",
+      "Answer2": "Ramen",
+      "Answer3": "Fonduta",
+      "CorrectAnswer": "Tajine",
+      "ImagePrompt": "moroccan_tagine.jpg"
+    },
+    {
+      "Id": 33,
+      "Question": "Quale salsa messicana a base di peperoncini e cioccolato è tradizionalmente servita sulla carne o sul pollame?",
+      "Answer1": "Mole",
+      "Answer2": "Salsa verde",
+      "Answer3": "Guacamole",
+      "CorrectAnswer": "Mole",
+      "ImagePrompt": "mexican_mole_sauce.jpg"
+    },
+    {
+      "Id": 34,
+      "Question": "Quale prodotto fermentato di soia si usa comunemente nella zuppa di miso giapponese?",
+      "Answer1": "Pasta di miso",
+      "Answer2": "Tahina",
+      "Answer3": "Hummus",
+      "CorrectAnswer": "Pasta di miso",
+      "ImagePrompt": "japanese_miso_paste.jpg"
+    },
+    {
+      "Id": 35,
+      "Question": "Il pollo tandoori è tradizionalmente cotto in quale tipo di forno?",
+      "Answer1": "Forno tandoor",
+      "Answer2": "Forno a legna per pizza",
+      "Answer3": "Forno a microonde",
+      "CorrectAnswer": "Forno tandoor",
+      "ImagePrompt": "indian_tandoor_oven.jpg"
+    },
+    {
+      "Id": 36,
+      "Question": "Il ceviche, un piatto di pesce crudo marinato nel succo di agrumi, è associato in particolare a quale paese sudamericano?",
+      "Answer1": "Perù",
+      "Answer2": "Norvegia",
+      "Answer3": "Egitto",
+      "CorrectAnswer": "Perù",
+      "ImagePrompt": "peruvian_ceviche.jpg"
+    },
+    {
+      "Id": 37,
+      "Question": "Quale dessert italiano è composto da strati di savoiardi imbevuti di caffè e crema al mascarpone?",
+      "Answer1": "Tiramisù",
+      "Answer2": "Panna cotta",
+      "Answer3": "Cannolo",
+      "CorrectAnswer": "Tiramisù",
+      "ImagePrompt": "italian_tiramisu.jpg"
+    },
+    {
+      "Id": 38,
+      "Question": "Quale metodo di cottura prevede di cuocere il cibo in liquido caldo appena sotto il punto di ebollizione, usato spesso per uova e pesce?",
+      "Answer1": "Poché",
+      "Answer2": "Frittura profonda",
+      "Answer3": "Grigliatura",
+      "CorrectAnswer": "Poché",
+      "ImagePrompt": "poaching_eggs.jpg"
+    },
+    {
+      "Id": 39,
+      "Question": "Quale piatto mediorientale consiste in piccoli piatti come hummus, olive e carni grigliate serviti insieme come assortimento?",
+      "Answer1": "Meze",
+      "Answer2": "Tapas",
+      "Answer3": "Bento",
+      "CorrectAnswer": "Meze",
+      "ImagePrompt": "middle_eastern_meze.jpg"
+    },
+    {
+      "Id": 40,
+      "Question": "Quale piatto tradizionale etiope è un pane piatto acido usato sia come piatto che come utensile per gli stufati?",
+      "Answer1": "Injera",
+      "Answer2": "Naan",
+      "Answer3": "Tortilla",
+      "CorrectAnswer": "Injera",
+      "ImagePrompt": "ethiopian_injera.jpg"
+    },
+
+    {
+      "Id": 41,
+      "Question": "Quale piatto giapponese consiste in una cotoletta impanata e fritta, spesso servita con cavolo tritato e riso?",
+      "Answer1": "Tonkatsu",
+      "Answer2": "Tempura",
+      "Answer3": "Okonomiyaki",
+      "CorrectAnswer": "Tonkatsu",
+      "ImagePrompt": "japanese_tonkatsu.jpg"
+    },
+    {
+      "Id": 42,
+      "Question": "Quale piatto tailandese è un sauté di noodle di riso con uovo, tofu o gamberi e salsa a base di tamarindo?",
+      "Answer1": "Pad Thai",
+      "Answer2": "Tom Yum",
+      "Answer3": "Curry verde",
+      "CorrectAnswer": "Pad Thai",
+      "ImagePrompt": "thai_pad_thai.jpg"
+    },
+    {
+      "Id": 43,
+      "Question": "Quale piatto di riso indiano è stratificato o mescolato con carne o verdure speziate e spesso aromatizzato con zafferano?",
+      "Answer1": "Biryani",
+      "Answer2": "Khichdi",
+      "Answer3": "Pulao",
+      "CorrectAnswer": "Biryani",
+      "ImagePrompt": "indian_biryani.jpg"
+    },
+    {
+      "Id": 44,
+      "Question": "Quale piatto messicano consiste in una tortilla ripiena di formaggio e spesso di altri ingredienti, piegata a metà e cotta su una piastra?",
+      "Answer1": "Quesadilla",
+      "Answer2": "Enchilada",
+      "Answer3": "Tamale",
+      "CorrectAnswer": "Quesadilla",
+      "ImagePrompt": "mexican_quesadilla.jpg"
+    },
+    {
+      "Id": 45,
+      "Question": "Quale dolce turco è fatto con strati di pasta fillo ripieni di frutta secca tritata e addolciti con sciroppo o miele?",
+      "Answer1": "Baklava",
+      "Answer2": "Lokum",
+      "Answer3": "Simit",
+      "CorrectAnswer": "Baklava",
+      "ImagePrompt": "turkish_baklava.jpg"
+    },
+    {
+      "Id": 46,
+      "Question": "Quale piatto brasiliano è un pane al formaggio fatto con farina di tapioca, spesso mangiato come snack?",
+      "Answer1": "Pão de queijo",
+      "Answer2": "Empanada",
+      "Answer3": "Arepa",
+      "CorrectAnswer": "Pão de queijo",
+      "ImagePrompt": "brazilian_pao_de_queijo.jpg"
+    },
+    {
+      "Id": 47,
+      "Question": "Quale piatto giapponese è una frittella salata tipicamente guarnita con cavolo, carne o frutti di mare e varie salse?",
+      "Answer1": "Okonomiyaki",
+      "Answer2": "Onigiri",
+      "Answer3": "Sashimi",
+      "CorrectAnswer": "Okonomiyaki",
+      "ImagePrompt": "japanese_okonomiyaki.jpg"
+    },
+    {
+      "Id": 48,
+      "Question": "Quale piatto mediorientale è composto da ceci o fave macinate, formate in polpette e fritte?",
+      "Answer1": "Falafel",
+      "Answer2": "Dolma",
+      "Answer3": "Tabbouleh",
+      "CorrectAnswer": "Falafel",
+      "ImagePrompt": "middle_eastern_falafel_wrap.jpg"
+    },
+    {
+      "Id": 49,
+      "Question": "Quale stufato francese è tradizionalmente preparato con pesce e frutti di mare della città portuale di Marsiglia?",
+      "Answer1": "Bouillabaisse",
+      "Answer2": "Coq au vin",
+      "Answer3": "Ratatouille",
+      "CorrectAnswer": "Bouillabaisse",
+      "ImagePrompt": "french_bouillabaisse.jpg"
+    },
+    {
+      "Id": 50,
+      "Question": "Quale piatto giapponese consiste in sottili fette di pesce crudo servite senza riso?",
+      "Answer1": "Sashimi",
+      "Answer2": "Nigiri",
+      "Answer3": "Maki",
+      "CorrectAnswer": "Sashimi",
+      "ImagePrompt": "japanese_sashimi.jpg"
+    },
+    {
+      "Id": 51,
+      "Question": "Quale piatto coreano è una ciotola di riso caldo con verdure saltate, pasta di peperoncino, spesso un uovo fritto e carne a fette?",
+      "Answer1": "Bibimbap",
+      "Answer2": "Kimchi jjigae",
+      "Answer3": "Japchae",
+      "CorrectAnswer": "Bibimbap",
+      "ImagePrompt": "korean_bibimbap.jpg"
+    },
+    {
+      "Id": 52,
+      "Question": "Quale insalata mediorientale è fatta con bulgur, prezzemolo, menta, pomodori e succo di limone?",
+      "Answer1": "Tabbouleh",
+      "Answer2": "Fattoush",
+      "Answer3": "Insalata Shirazi",
+      "CorrectAnswer": "Tabbouleh",
+      "ImagePrompt": "middle_eastern_tabbouleh.jpg"
+    },
+    {
+      "Id": 53,
+      "Question": "Quale piatto spagnolo è una zuppa fredda a base di pomodoro, spesso servita in estate?",
+      "Answer1": "Gazpacho",
+      "Answer2": "Fabada",
+      "Answer3": "Salmorejo",
+      "CorrectAnswer": "Gazpacho",
+      "ImagePrompt": "spanish_gazpacho.jpg"
+    },
+    {
+      "Id": 54,
+      "Question": "Quale salsa italiana è fatta principalmente con basilico, pinoli, aglio, formaggio e olio d'oliva, tipica di Genova?",
+      "Answer1": "Pesto",
+      "Answer2": "Ragù",
+      "Answer3": "Alfredo",
+      "CorrectAnswer": "Pesto",
+      "ImagePrompt": "italian_pesto_sauce.jpg"
+    },
+    {
+      "Id": 55,
+      "Question": "Quale pane indiano è lievitato, cotto nel tandoor e spesso spennellato con burro o ghee?",
+      "Answer1": "Naan",
+      "Answer2": "Roti",
+      "Answer3": "Chapati",
+      "CorrectAnswer": "Naan",
+      "ImagePrompt": "indian_naan_bread.jpg"
+    },
+    {
+      "Id": 56,
+      "Question": "Quale piatto giapponese prevede riso e diverse verdure o carne cotti insieme in una sola pentola, spesso chiamato hot pot?",
+      "Answer1": "Nabemono",
+      "Answer2": "Onigiri",
+      "Answer3": "Yakitori",
+      "CorrectAnswer": "Nabemono",
+      "ImagePrompt": "japanese_nabemono_hotpot.jpg"
+    },
+    {
+      "Id": 57,
+      "Question": "Quale piatto peruviano è un sauté di strisce di manzo marinate con cipolle, pomodori e patatine fritte, spesso servito con riso?",
+      "Answer1": "Lomo saltado",
+      "Answer2": "Ají de gallina",
+      "Answer3": "Causa",
+      "CorrectAnswer": "Lomo saltado",
+      "ImagePrompt": "peruvian_lomo_saltado.jpg"
+    },
+    {
+      "Id": 58,
+      "Question": "Quale piatto indiano è un curry ricco e cremoso a base di pomodoro, burro e panna, spesso servito con pollo?",
+      "Answer1": "Pollo al burro",
+      "Answer2": "Vindaloo",
+      "Answer3": "Dal makhani",
+      "CorrectAnswer": "Pollo al burro",
+      "ImagePrompt": "indian_butter_chicken.jpg"
+    },
+    {
+      "Id": 59,
+      "Question": "Quale metodo di cottura giapponese prevede di impanare e friggere in profondità frutti di mare e verdure?",
+      "Answer1": "Tempura",
+      "Answer2": "Teriyaki",
+      "Answer3": "Yakitori",
+      "CorrectAnswer": "Tempura",
+      "ImagePrompt": "japanese_tempura.jpg"
+    },
+    {
+      "Id": 60,
+      "Question": "Quale pasta di peperoncino nordafricana, a base di peperoni, aglio e spezie, è spesso servita con couscous e carni grigliate?",
+      "Answer1": "Harissa",
+      "Answer2": "Chermoula",
+      "Answer3": "Zhoug",
+      "CorrectAnswer": "Harissa",
+      "ImagePrompt": "north_african_harissa_paste.jpg"
+    },
+
+    {
+      "Id": 61,
+      "Question": "Quale piatto marocchino consiste in granelli grossi di semola cotti a vapore e serviti con carne e verdure?",
+      "Answer1": "Couscous",
+      "Answer2": "Bulgur",
+      "Answer3": "Polenta",
+      "CorrectAnswer": "Couscous",
+      "ImagePrompt": "moroccan_couscous_stew.jpg"
+    },
+    {
+      "Id": 62,
+      "Question": "Quale piatto di riso giapponese è cotto con dashi, salsa di soia e vari ingredienti come verdure o frutti di mare nella stessa pentola del riso?",
+      "Answer1": "Takikomi gohan",
+      "Answer2": "Onigiri",
+      "Answer3": "Chirashi",
+      "CorrectAnswer": "Takikomi gohan",
+      "ImagePrompt": "japanese_takikomi_gohan.jpg"
+    },
+    {
+      "Id": 63,
+      "Question": "Quale piatto francese è uno stufato di verdure provenzale, tipicamente con melanzane, zucchine, peperoni e pomodori?",
+      "Answer1": "Ratatouille",
+      "Answer2": "Cassoulet",
+      "Answer3": "Pot-au-feu",
+      "CorrectAnswer": "Ratatouille",
+      "ImagePrompt": "french_ratatouille.jpg"
+    },
+    {
+      "Id": 64,
+      "Question": "Quale piatto nordico consiste in salmone marinato con sale, zucchero e aneto?",
+      "Answer1": "Gravlax",
+      "Answer2": "Lutefisk",
+      "Answer3": "Smørrebrød",
+      "CorrectAnswer": "Gravlax",
+      "ImagePrompt": "nordic_gravlax_salmon.jpg"
+    },
+    {
+      "Id": 65,
+      "Question": "Quale piatto indiano è uno stufato spesso di lenticchie cotte lentamente con burro e panna, spesso a base di lenticchie nere?",
+      "Answer1": "Dal makhani",
+      "Answer2": "Sambar",
+      "Answer3": "Rasam",
+      "CorrectAnswer": "Dal makhani",
+      "ImagePrompt": "indian_dal_makhani.jpg"
+    },
+    {
+      "Id": 66,
+      "Question": "Quale metodo di cottura giapponese prevede di grigliare spiedini di pollo su carbone, spesso con salsa tare o sale?",
+      "Answer1": "Yakitori",
+      "Answer2": "Teriyaki",
+      "Answer3": "Okonomiyaki",
+      "CorrectAnswer": "Yakitori",
+      "ImagePrompt": "japanese_yakitori_skewers.jpg"
+    },
+    {
+      "Id": 67,
+      "Question": "Quale piatto etiope è uno stufato piccante di solito fatto con pollo, uova sode e miscela di spezie berberé?",
+      "Answer1": "Doro wat",
+      "Answer2": "Shiro",
+      "Answer3": "Kitfo",
+      "CorrectAnswer": "Doro wat",
+      "ImagePrompt": "ethiopian_doro_wat.jpg"
+    },
+    {
+      "Id": 68,
+      "Question": "Quale piatto georgiano è un pane ripieno di formaggio, spesso a forma di barca e guarnito con uovo e burro?",
+      "Answer1": "Khachapuri",
+      "Answer2": "Khinkali",
+      "Answer3": "Lobio",
+      "CorrectAnswer": "Khachapuri",
+      "ImagePrompt": "georgian_khachapuri.jpg"
+    },
+    {
+      "Id": 69,
+      "Question": "Quale piatto giapponese presenta sottili fette di manzo cotte rapidamente in un brodo dolce a base di soia, spesso con verdure e noodle, direttamente a tavola?",
+      "Answer1": "Sukiyaki",
+      "Answer2": "Shabu-shabu",
+      "Answer3": "Katsudon",
+      "CorrectAnswer": "Sukiyaki",
+      "ImagePrompt": "japanese_sukiyaki_hotpot.jpg"
+    },
+    {
+      "Id": 70,
+      "Question": "Quale piatto messicano è un impasto di mais ripieno di carne o fagioli, cotto al vapore in foglia di mais o di banana?",
+      "Answer1": "Tamale",
+      "Answer2": "Tostada",
+      "Answer3": "Chalupa",
+      "CorrectAnswer": "Tamale",
+      "ImagePrompt": "mexican_tamales.jpg"
+    },
+    {
+      "Id": 71,
+      "Question": "Quale piatto indonesiano è un riso fritto spesso aromatizzato con salsa di soia dolce e servito con condimenti come uovo e crackers di gamberi?",
+      "Answer1": "Nasi goreng",
+      "Answer2": "Satay",
+      "Answer3": "Rendang",
+      "CorrectAnswer": "Nasi goreng",
+      "ImagePrompt": "indonesian_nasi_goreng.jpg"
+    },
+    {
+      "Id": 72,
+      "Question": "Quale piatto malese o singaporiano consiste in pollo bollito e riso condito, spesso servito con salsa chili e cetrioli?",
+      "Answer1": "Riso al pollo alla hainanese",
+      "Answer2": "Laksa",
+      "Answer3": "Char kway teow",
+      "CorrectAnswer": "Riso al pollo alla hainanese",
+      "ImagePrompt": "hainanese_chicken_rice.jpg"
+    },
+    {
+      "Id": 73,
+      "Question": "Quale piatto indiano è un curry aspro e piccante di Goa, spesso preparato con maiale e aceto?",
+      "Answer1": "Vindaloo",
+      "Answer2": "Korma",
+      "Answer3": "Saag",
+      "CorrectAnswer": "Vindaloo",
+      "ImagePrompt": "goan_vindaloo_curry.jpg"
+    },
+    {
+      "Id": 74,
+      "Question": "Quale piatto giapponese è una ciotola di riso con sopra una cotoletta di maiale impanata e fritta e uovo, servita in brodo?",
+      "Answer1": "Katsudon",
+      "Answer2": "Gyudon",
+      "Answer3": "Oyakodon",
+      "CorrectAnswer": "Katsudon",
+      "ImagePrompt": "japanese_katsudon_bowl.jpg"
+    },
+    {
+      "Id": 75,
+      "Question": "Quale piatto libanese o siriano è una pasta ripiena di carne macinata, cipolle e pinoli, talvolta a forma di piccole tortine?",
+      "Answer1": "Sfiha",
+      "Answer2": "Kunafa",
+      "Answer3": "Maamoul",
+      "CorrectAnswer": "Sfiha",
+      "ImagePrompt": "middle_eastern_sfiha_meat_pies.jpg"
+    },
+    {
+      "Id": 76,
+      "Question": "Quale piatto giapponese è una ciotola di riso con sopra fette di pesce crudo e altri frutti di mare, a volte chiamato sushi sparso?",
+      "Answer1": "Chirashi",
+      "Answer2": "Nigiri",
+      "Answer3": "Maki",
+      "CorrectAnswer": "Chirashi",
+      "ImagePrompt": "japanese_chirashi_bowl.jpg"
+    },
+    {
+      "Id": 77,
+      "Question": "Quale miscela di erbe e spezie nordafricana è spesso usata come rub secco per le carni e contiene paprika, cumino e coriandolo?",
+      "Answer1": "Ras el hanout",
+      "Answer2": "Dukkah",
+      "Answer3": "Za'atar",
+      "CorrectAnswer": "Ras el hanout",
+      "ImagePrompt": "north_african_ras_el_hanout_spice_mix.jpg"
+    },
+    {
+      "Id": 78,
+      "Question": "Quale stufato giapponese è fatto con roux al curry, verdure e carne, solitamente servito sul riso?",
+      "Answer1": "Curry giapponese con riso",
+      "Answer2": "Oden",
+      "Answer3": "Nikujaga",
+      "CorrectAnswer": "Curry giapponese con riso",
+      "ImagePrompt": "japanese_curry_rice.jpg"
+    },
+    {
+      "Id": 79,
+      "Question": "Quale salsa peruviana fatta con peperoncini gialli e formaggio è comunemente servita sulle patate bollite?",
+      "Answer1": "Salsa huancaína",
+      "Answer2": "Salsa di rocoto",
+      "Answer3": "Chimichurri",
+      "CorrectAnswer": "Salsa huancaína",
+      "ImagePrompt": "peruvian_papa_a_la_huancaina.jpg"
+    },
+    {
+      "Id": 80,
+      "Question": "Quale panino aperto nordico è tipicamente preparato con pane di segale e guarnito con aringhe, formaggio o salumi?",
+      "Answer1": "Smørrebrød",
+      "Answer2": "Lefse",
+      "Answer3": "Kanelbulle",
+      "CorrectAnswer": "Smørrebrød",
+      "ImagePrompt": "danish_smotherbrod_open_sandwiches.jpg"
+    },
+
+    {
+      "Id": 81,
+      "Question": "Quale piatto filippino è uno stufato ottenuto brasando carne, di solito pollo o maiale, in aceto, salsa di soia, aglio e alloro?",
+      "Answer1": "Adobo",
+      "Answer2": "Sinigang",
+      "Answer3": "Kare-kare",
+      "CorrectAnswer": "Adobo",
+      "ImagePrompt": "filipino_adobo_stew.jpg"
+    },
+    {
+      "Id": 82,
+      "Question": "Quale piatto unico di riso dell'Africa occidentale è tradizionalmente cotto in una ricca base di pomodoro e peperoncino ed è motivo di orgoglio in paesi come Ghana e Nigeria?",
+      "Answer1": "Jollof rice",
+      "Answer2": "Pilau",
+      "Answer3": "Thieboudienne",
+      "CorrectAnswer": "Jollof rice",
+      "ImagePrompt": "west_african_jollof_rice_pot.jpg"
+    },
+    {
+      "Id": 83,
+      "Question": "Quale stufato coreano è fatto con kimchi, tofu e spesso maiale, cotti insieme in una zuppa piccante e acida?",
+      "Answer1": "Kimchi jjigae",
+      "Answer2": "Sundubu jjigae",
+      "Answer3": "Doenjang jjigae",
+      "CorrectAnswer": "Kimchi jjigae",
+      "ImagePrompt": "korean_kimchi_jjigae.jpg"
+    },
+    {
+      "Id": 84,
+      "Question": "Quale piatto da strada egiziano è fatto con riso, lenticchie, pasta, salsa di pomodoro e cipolle fritte a strati?",
+      "Answer1": "Koshari",
+      "Answer2": "Ful medames",
+      "Answer3": "Molokhia",
+      "CorrectAnswer": "Koshari",
+      "ImagePrompt": "egyptian_koshari_street_food.jpg"
+    },
+    {
+      "Id": 85,
+      "Question": "Quale tecnica di cucina giapponese prevede di impanare ingredienti nella panko e friggerli su spiedini, serviti con salsa da intingere?",
+      "Answer1": "Kushikatsu",
+      "Answer2": "Robatayaki",
+      "Answer3": "Shabu-shabu",
+      "CorrectAnswer": "Kushikatsu",
+      "ImagePrompt": "japanese_kushikatsu_skewers.jpg"
+    },
+    {
+      "Id": 86,
+      "Question": "Quale piatto filippino è una zuppa acida fatta con tamarindo che spesso include maiale o gamberi e varie verdure?",
+      "Answer1": "Sinigang",
+      "Answer2": "Bulalo",
+      "Answer3": "Laing",
+      "CorrectAnswer": "Sinigang",
+      "ImagePrompt": "filipino_sinigang_soup.jpg"
+    },
+    {
+      "Id": 87,
+      "Question": "Quale piatto invernale giapponese consiste in vari ingredienti come polpette di pesce, daikon e uova sode cotti in un brodo leggero alla soia?",
+      "Answer1": "Oden",
+      "Answer2": "Sukiyaki",
+      "Answer3": "Nabemono",
+      "CorrectAnswer": "Oden",
+      "ImagePrompt": "japanese_oden_hotpot.jpg"
+    },
+    {
+      "Id": 88,
+      "Question": "Quale piatto indonesiano è uno stufato ricco di manzo cotto lentamente nel latte di cocco e spezie finché il liquido è quasi assorbito?",
+      "Answer1": "Rendang",
+      "Answer2": "Satay",
+      "Answer3": "Gado-gado",
+      "CorrectAnswer": "Rendang",
+      "ImagePrompt": "indonesian_beef_rendang.jpg"
+    },
+    {
+      "Id": 89,
+      "Question": "Quale stile di cucina fusion peruviano-giapponese combina pesce crudo con ingredienti peruviani come peperoncini ají e agrumi?",
+      "Answer1": "Cucina Nikkei",
+      "Answer2": "Cucina Tex-Mex",
+      "Answer3": "Cucina creola",
+      "CorrectAnswer": "Cucina Nikkei",
+      "ImagePrompt": "nikkei_cuisine_fusion_platter.jpg"
+    },
+    {
+      "Id": 90,
+      "Question": "Quale dessert siriano o libanese è una pasta a base di formaggio imbevuta di sciroppo di zucchero e spesso guarnita con pistacchi tritati?",
+      "Answer1": "Kunafa",
+      "Answer2": "Baklava",
+      "Answer3": "Basbousa",
+      "CorrectAnswer": "Kunafa",
+      "ImagePrompt": "middle_eastern_kunafa_dessert.jpg"
+    },
+    {
+      "Id": 91,
+      "Question": "Quale piatto giapponese prevede di passare velocemente sottili fette di carne in brodo caldo per poi intingerle in salse prima di mangiarle?",
+      "Answer1": "Shabu-shabu",
+      "Answer2": "Sukiyaki",
+      "Answer3": "Yakiniku",
+      "CorrectAnswer": "Shabu-shabu",
+      "ImagePrompt": "japanese_shabu_shabu_hotpot.jpg"
+    },
+    {
+      "Id": 92,
+      "Question": "Quale salsa argentina a base di prezzemolo, aglio, origano e olio è comunemente servita con carni alla griglia?",
+      "Answer1": "Chimichurri",
+      "Answer2": "Salsa criolla",
+      "Answer3": "Ají amarillo",
+      "CorrectAnswer": "Chimichurri",
+      "ImagePrompt": "argentinian_chimichurri_steak.jpg"
+    },
+    {
+      "Id": 93,
+      "Question": "Quale stile di cottura giapponese presenta piccoli pezzi di cibo grigliati su spiedini su carbone, simile allo yakitori ma includendo verdure e altre carni?",
+      "Answer1": "Kushiyaki",
+      "Answer2": "Teppanyaki",
+      "Answer3": "Robatayaki",
+      "CorrectAnswer": "Kushiyaki",
+      "ImagePrompt": "japanese_kushiyaki_assorted_skewers.jpg"
+    },
+    {
+      "Id": 94,
+      "Question": "Quale piatto dell'Africa occidentale del Senegal è composto da pesce, riso e verdure cotti insieme, considerato spesso piatto nazionale?",
+      "Answer1": "Thieboudienne",
+      "Answer2": "Egusi soup",
+      "Answer3": "Ndolé",
+      "CorrectAnswer": "Thieboudienne",
+      "ImagePrompt": "senegalese_thieboudienne_rice_fish.jpg"
+    },
+    {
+      "Id": 95,
+      "Question": "Quale piatto giapponese è una ciotola di riso con pollo e uovo cotti in una salsa a base di dashi, chiamato talvolta ciotola genitore-e-figlio?",
+      "Answer1": "Oyakodon",
+      "Answer2": "Gyudon",
+      "Answer3": "Katsudon",
+      "CorrectAnswer": "Oyakodon",
+      "ImagePrompt": "japanese_oyakodon_bowl.jpg"
+    },
+    {
+      "Id": 96,
+      "Question": "Quale snack indiano è una pasta fritta ripiena di patate e piselli speziati, spesso servita con chutney?",
+      "Answer1": "Samosa",
+      "Answer2": "Pakora",
+      "Answer3": "Bhaji",
+      "CorrectAnswer": "Samosa",
+      "ImagePrompt": "indian_samosas_with_chutney.jpg"
+    },
+    {
+      "Id": 97,
+      "Question": "Quale piatto giapponese consiste in riso condito con aceto formato a rettangolo e guarnito con anguilla grigliata e glassa dolce a base di soia?",
+      "Answer1": "Unagi sushi",
+      "Answer2": "Inari sushi",
+      "Answer3": "Temaki",
+      "CorrectAnswer": "Unagi sushi",
+      "ImagePrompt": "japanese_unagi_sushi_platter.jpg"
+    },
+    {
+      "Id": 98,
+      "Question": "Quale piatto messicano per la colazione consiste in pezzi di tortilla fritti cotti in salsa rossa o verde e guarniti con formaggio e talvolta uova?",
+      "Answer1": "Chilaquiles",
+      "Answer2": "Huevos rancheros",
+      "Answer3": "Molletes",
+      "CorrectAnswer": "Chilaquiles",
+      "ImagePrompt": "mexican_chilaquiles_breakfast.jpg"
+    },
+    {
+      "Id": 99,
+      "Question": "Quale street food giapponese consiste in piccole sfere di pastella ripiene di polpo a cubetti e guarnite con salsa, maionese e scaglie di bonito?",
+      "Answer1": "Takoyaki",
+      "Answer2": "Taiyaki",
+      "Answer3": "Dorayaki",
+      "CorrectAnswer": "Takoyaki",
+      "ImagePrompt": "japanese_takoyaki_street_food.jpg"
+    },
+    {
+      "Id": 100,
+      "Question": "Quale piatto sudafricano è un pasticcio di carne macinata speziata cotta al forno con una copertura a base di uova, considerato spesso piatto nazionale?",
+      "Answer1": "Bobotie",
+      "Answer2": "Bunny chow",
+      "Answer3": "Boerewors",
+      "CorrectAnswer": "Bobotie",
+      "ImagePrompt": "south_african_bobotie_casserole.jpg"
+    }
+  ]
+}

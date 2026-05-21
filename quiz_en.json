@@ -1,0 +1,908 @@
+{
+  "Questions": [
+    {
+      "Id": 1,
+      "Question": "Which country is most associated with sushi as a traditional dish?",
+      "Answer1": "Japan",
+      "Answer2": "Brazil",
+      "Answer3": "Germany",
+      "CorrectAnswer": "Japan",
+      "ImagePrompt": "sushi_japan.jpg"
+    },
+    {
+      "Id": 2,
+      "Question": "Which country is famous for pizza as a national dish?",
+      "Answer1": "Italy",
+      "Answer2": "China",
+      "Answer3": "Norway",
+      "CorrectAnswer": "Italy",
+      "ImagePrompt": "italian_pizza.jpg"
+    },
+    {
+      "Id": 3,
+      "Question": "Which country is best known for tacos?",
+      "Answer1": "Mexico",
+      "Answer2": "Russia",
+      "Answer3": "Sweden",
+      "CorrectAnswer": "Mexico",
+      "ImagePrompt": "mexican_tacos.jpg"
+    },
+    {
+      "Id": 4,
+      "Question": "Which country is traditionally associated with curry dishes like tikka masala and biryani?",
+      "Answer1": "India",
+      "Answer2": "Finland",
+      "Answer3": "Chile",
+      "CorrectAnswer": "India",
+      "ImagePrompt": "indian_curry.jpg"
+    },
+    {
+      "Id": 5,
+      "Question": "Which country is famous for croissants and baguettes?",
+      "Answer1": "France",
+      "Answer2": "Canada",
+      "Answer3": "Egypt",
+      "CorrectAnswer": "France",
+      "ImagePrompt": "french_croissant.jpg"
+    },
+    {
+      "Id": 6,
+      "Question": "Paella is a famous rice dish from which country?",
+      "Answer1": "Spain",
+      "Answer2": "Japan",
+      "Answer3": "South Africa",
+      "CorrectAnswer": "Spain",
+      "ImagePrompt": "spanish_paella.jpg"
+    },
+    {
+      "Id": 7,
+      "Question": "Fish and chips are a classic dish of which country?",
+      "Answer1": "United Kingdom",
+      "Answer2": "Thailand",
+      "Answer3": "Peru",
+      "CorrectAnswer": "United Kingdom",
+      "ImagePrompt": "british_fish_and_chips.jpg"
+    },
+    {
+      "Id": 8,
+      "Question": "Which country is famous for its traditional dish called poutine, made with fries, cheese curds, and gravy?",
+      "Answer1": "Canada",
+      "Answer2": "Morocco",
+      "Answer3": "Vietnam",
+      "CorrectAnswer": "Canada",
+      "ImagePrompt": "canadian_poutine.jpg"
+    },
+    {
+      "Id": 9,
+      "Question": "Which country is best known for hummus and falafel as everyday foods?",
+      "Answer1": "Israel",
+      "Answer2": "Ireland",
+      "Answer3": "Argentina",
+      "CorrectAnswer": "Israel",
+      "ImagePrompt": "israeli_falafel.jpg"
+    },
+    {
+      "Id": 10,
+      "Question": "Which country is famous for dim sum and dishes like dumplings and spring rolls?",
+      "Answer1": "China",
+      "Answer2": "Brazil",
+      "Answer3": "Poland",
+      "CorrectAnswer": "China",
+      "ImagePrompt": "chinese_dim_sum.jpg"
+    },
+    {
+      "Id": 11,
+      "Question": "Which country is strongly linked with sauerkraut and sausages as traditional foods?",
+      "Answer1": "Germany",
+      "Answer2": "Malaysia",
+      "Answer3": "Mexico",
+      "CorrectAnswer": "Germany",
+      "ImagePrompt": "german_sausages_sauerkraut.jpg"
+    },
+    {
+      "Id": 12,
+      "Question": "Which country is famous for feijoada, a hearty bean and meat stew?",
+      "Answer1": "Brazil",
+      "Answer2": "Japan",
+      "Answer3": "Switzerland",
+      "CorrectAnswer": "Brazil",
+      "ImagePrompt": "brazilian_feijoada.jpg"
+    },
+    {
+      "Id": 13,
+      "Question": "In which country is kimchi, a spicy fermented cabbage dish, a staple food?",
+      "Answer1": "South Korea",
+      "Answer2": "Australia",
+      "Answer3": "Greece",
+      "CorrectAnswer": "South Korea",
+      "ImagePrompt": "korean_kimchi.jpg"
+    },
+    {
+      "Id": 14,
+      "Question": "Which country is known for couscous as a traditional staple dish?",
+      "Answer1": "Algeria",
+      "Answer2": "Iceland",
+      "Answer3": "New Zealand",
+      "CorrectAnswer": "Algeria",
+      "ImagePrompt": "algerian_couscous.jpg"
+    },
+    {
+      "Id": 15,
+      "Question": "Which country is famous for the national dish called Irish stew, made with lamb or beef and vegetables?",
+      "Answer1": "Ireland",
+      "Answer2": "Thailand",
+      "Answer3": "Peru",
+      "CorrectAnswer": "Ireland",
+      "ImagePrompt": "irish_stew.jpg"
+    },
+    {
+      "Id": 16,
+      "Question": "Which country is traditionally associated with Wiener Schnitzel, a breaded veal cutlet?",
+      "Answer1": "Austria",
+      "Answer2": "Japan",
+      "Answer3": "Kenya",
+      "CorrectAnswer": "Austria",
+      "ImagePrompt": "austrian_wiener_schnitzel.jpg"
+    },
+    {
+      "Id": 17,
+      "Question": "Which country is best known for pho, a fragrant noodle soup?",
+      "Answer1": "Vietnam",
+      "Answer2": "Portugal",
+      "Answer3": "Sweden",
+      "CorrectAnswer": "Vietnam",
+      "ImagePrompt": "vietnamese_pho.jpg"
+    },
+    {
+      "Id": 18,
+      "Question": "Which country is famous for its national dish called asado, a style of grilled meat?",
+      "Answer1": "Argentina",
+      "Answer2": "India",
+      "Answer3": "Finland",
+      "CorrectAnswer": "Argentina",
+      "ImagePrompt": "argentinian_asado.jpg"
+    },
+    {
+      "Id": 19,
+      "Question": "Which country is known for jollof rice as a popular West African dish?",
+      "Answer1": "Ghana",
+      "Answer2": "Japan",
+      "Answer3": "Canada",
+      "CorrectAnswer": "Ghana",
+      "ImagePrompt": "ghanaian_jollof_rice.jpg"
+    },
+    {
+      "Id": 20,
+      "Question": "Beshbarmak, a dish of boiled meat and noodles, is a national dish of which country?",
+      "Answer1": "Kazakhstan",
+      "Answer2": "Italy",
+      "Answer3": "Mexico",
+      "CorrectAnswer": "Kazakhstan",
+      "ImagePrompt": "kazakh_beshbarmak.jpg"
+    },
+
+    {
+      "Id": 21,
+      "Question": "Which cheese is traditionally used on a classic Neapolitan pizza Margherita?",
+      "Answer1": "Mozzarella",
+      "Answer2": "Cheddar",
+      "Answer3": "Feta",
+      "CorrectAnswer": "Mozzarella",
+      "ImagePrompt": "mozzarella_pizza.jpg"
+    },
+    {
+      "Id": 22,
+      "Question": "Ramen is a popular noodle soup that originally comes from which country?",
+      "Answer1": "Japan",
+      "Answer2": "Greece",
+      "Answer3": "Morocco",
+      "CorrectAnswer": "Japan",
+      "ImagePrompt": "japanese_ramen.jpg"
+    },
+    {
+      "Id": 23,
+      "Question": "Which cooking method involves quickly frying food in a small amount of very hot oil, often used in Chinese cuisine?",
+      "Answer1": "Stir-frying",
+      "Answer2": "Boiling",
+      "Answer3": "Steaming",
+      "CorrectAnswer": "Stir-frying",
+      "ImagePrompt": "stir_frying_wok.jpg"
+    },
+    {
+      "Id": 24,
+      "Question": "In Italian cuisine, which type of rice is typically used to make risotto?",
+      "Answer1": "Arborio",
+      "Answer2": "Basmati",
+      "Answer3": "Jasmine",
+      "CorrectAnswer": "Arborio",
+      "ImagePrompt": "arborio_risotto.jpg"
+    },
+    {
+      "Id": 25,
+      "Question": "Which country is known for the dish called goulash, a stew seasoned with paprika?",
+      "Answer1": "Hungary",
+      "Answer2": "Canada",
+      "Answer3": "Indonesia",
+      "CorrectAnswer": "Hungary",
+      "ImagePrompt": "hungarian_goulash.jpg"
+    },
+    {
+      "Id": 26,
+      "Question": "Which Italian pasta dish is traditionally made with eggs, cured pork, cheese, and black pepper, without cream?",
+      "Answer1": "Carbonara",
+      "Answer2": "Lasagna",
+      "Answer3": "Pesto",
+      "CorrectAnswer": "Carbonara",
+      "ImagePrompt": "italian_carbonara.jpg"
+    },
+    {
+      "Id": 27,
+      "Question": "Which Middle Eastern dish consists of grilled minced meat, often served on a skewer?",
+      "Answer1": "Kebab",
+      "Answer2": "Sushi",
+      "Answer3": "Paella",
+      "CorrectAnswer": "Kebab",
+      "ImagePrompt": "middle_eastern_kebab.jpg"
+    },
+    {
+      "Id": 28,
+      "Question": "Which French dish is a slow-cooked casserole of white beans and meat, often duck or sausage?",
+      "Answer1": "Cassoulet",
+      "Answer2": "Ratatouille",
+      "Answer3": "Bouillabaisse",
+      "CorrectAnswer": "Cassoulet",
+      "ImagePrompt": "french_cassoulet.jpg"
+    },
+    {
+      "Id": 29,
+      "Question": "Which spicy red paste made from chili peppers is a key ingredient in many Korean dishes?",
+      "Answer1": "Gochujang",
+      "Answer2": "Wasabi",
+      "Answer3": "Pesto",
+      "CorrectAnswer": "Gochujang",
+      "ImagePrompt": "korean_gochujang_paste.jpg"
+    },
+    {
+      "Id": 30,
+      "Question": "Which classic Spanish dish consists of small plates of food, such as olives, cheese, and seafood, served as snacks?",
+      "Answer1": "Tapas",
+      "Answer2": "Dim sum",
+      "Answer3": "Meze",
+      "CorrectAnswer": "Tapas",
+      "ImagePrompt": "spanish_tapas.jpg"
+    },
+    {
+      "Id": 31,
+      "Question": "Which Greek dish is made of layers of eggplant, ground meat, and béchamel sauce, baked in a pan?",
+      "Answer1": "Moussaka",
+      "Answer2": "Souvlaki",
+      "Answer3": "Gyro",
+      "CorrectAnswer": "Moussaka",
+      "ImagePrompt": "greek_moussaka.jpg"
+    },
+    {
+      "Id": 32,
+      "Question": "Which North African dish is a slow-cooked stew, often made with lamb or chicken and vegetables, cooked in a special conical pot?",
+      "Answer1": "Tagine",
+      "Answer2": "Ramen",
+      "Answer3": "Fondue",
+      "CorrectAnswer": "Tagine",
+      "ImagePrompt": "moroccan_tagine.jpg"
+    },
+    {
+      "Id": 33,
+      "Question": "Which Mexican sauce made from chili peppers and chocolate is traditionally served over meat or poultry?",
+      "Answer1": "Mole",
+      "Answer2": "Salsa verde",
+      "Answer3": "Guacamole",
+      "CorrectAnswer": "Mole",
+      "ImagePrompt": "mexican_mole_sauce.jpg"
+    },
+    {
+      "Id": 34,
+      "Question": "Which fermented soy product is commonly used in Japanese miso soup?",
+      "Answer1": "Miso paste",
+      "Answer2": "Tahini",
+      "Answer3": "Hummus",
+      "CorrectAnswer": "Miso paste",
+      "ImagePrompt": "japanese_miso_paste.jpg"
+    },
+    {
+      "Id": 35,
+      "Question": "Tandoori chicken is traditionally cooked in which type of oven?",
+      "Answer1": "Tandoor oven",
+      "Answer2": "Wood-fired pizza oven",
+      "Answer3": "Microwave oven",
+      "CorrectAnswer": "Tandoor oven",
+      "ImagePrompt": "indian_tandoor_oven.jpg"
+    },
+    {
+      "Id": 36,
+      "Question": "Ceviche, a dish of raw fish cured in citrus juice, is especially associated with which South American country?",
+      "Answer1": "Peru",
+      "Answer2": "Norway",
+      "Answer3": "Egypt",
+      "CorrectAnswer": "Peru",
+      "ImagePrompt": "peruvian_ceviche.jpg"
+    },
+    {
+      "Id": 37,
+      "Question": "Which Italian dessert is made of layers of coffee-soaked ladyfingers and mascarpone cream?",
+      "Answer1": "Tiramisu",
+      "Answer2": "Panna cotta",
+      "Answer3": "Cannoli",
+      "CorrectAnswer": "Tiramisu",
+      "ImagePrompt": "italian_tiramisu.jpg"
+    },
+    {
+      "Id": 38,
+      "Question": "Which cooking method involves cooking food in hot liquid just below boiling point, commonly used for eggs and fish?",
+      "Answer1": "Poaching",
+      "Answer2": "Deep-frying",
+      "Answer3": "Grilling",
+      "CorrectAnswer": "Poaching",
+      "ImagePrompt": "poaching_eggs.jpg"
+    },
+    {
+      "Id": 39,
+      "Question": "Which Middle Eastern dish consists of small plates like hummus, olives, and grilled meats served together as a spread?",
+      "Answer1": "Meze",
+      "Answer2": "Tapas",
+      "Answer3": "Bento",
+      "CorrectAnswer": "Meze",
+      "ImagePrompt": "middle_eastern_meze.jpg"
+    },
+    {
+      "Id": 40,
+      "Question": "Which traditional Ethiopian dish is a sour flatbread used as both plate and utensil for stews?",
+      "Answer1": "Injera",
+      "Answer2": "Naan",
+      "Answer3": "Tortilla",
+      "CorrectAnswer": "Injera",
+      "ImagePrompt": "ethiopian_injera.jpg"
+    },
+
+    {
+      "Id": 41,
+      "Question": "Which Japanese dish consists of a breaded and deep-fried cutlet, often served with shredded cabbage and rice?",
+      "Answer1": "Tonkatsu",
+      "Answer2": "Tempura",
+      "Answer3": "Okonomiyaki",
+      "CorrectAnswer": "Tonkatsu",
+      "ImagePrompt": "japanese_tonkatsu.jpg"
+    },
+    {
+      "Id": 42,
+      "Question": "Which Thai dish is a stir-fried rice noodle dish typically made with egg, tofu or shrimp, and tamarind-based sauce?",
+      "Answer1": "Pad Thai",
+      "Answer2": "Tom Yum",
+      "Answer3": "Green curry",
+      "CorrectAnswer": "Pad Thai",
+      "ImagePrompt": "thai_pad_thai.jpg"
+    },
+    {
+      "Id": 43,
+      "Question": "Which Indian rice dish is layered or mixed with spiced meat or vegetables and often flavored with saffron?",
+      "Answer1": "Biryani",
+      "Answer2": "Khichdi",
+      "Answer3": "Pulao",
+      "CorrectAnswer": "Biryani",
+      "ImagePrompt": "indian_biryani.jpg"
+    },
+    {
+      "Id": 44,
+      "Question": "Which Mexican dish consists of a tortilla filled with cheese and often other ingredients, folded in half and cooked on a griddle?",
+      "Answer1": "Quesadilla",
+      "Answer2": "Enchilada",
+      "Answer3": "Tamale",
+      "CorrectAnswer": "Quesadilla",
+      "ImagePrompt": "mexican_quesadilla.jpg"
+    },
+    {
+      "Id": 45,
+      "Question": "Which Turkish dish is made from layers of filo pastry filled with chopped nuts and sweetened with syrup or honey?",
+      "Answer1": "Baklava",
+      "Answer2": "Lokum",
+      "Answer3": "Simit",
+      "CorrectAnswer": "Baklava",
+      "ImagePrompt": "turkish_baklava.jpg"
+    },
+    {
+      "Id": 46,
+      "Question": "Which Brazilian dish is a cheese bread made with tapioca flour, often eaten as a snack?",
+      "Answer1": "Pão de queijo",
+      "Answer2": "Empanada",
+      "Answer3": "Arepa",
+      "CorrectAnswer": "Pão de queijo",
+      "ImagePrompt": "brazilian_pao_de_queijo.jpg"
+    },
+    {
+      "Id": 47,
+      "Question": "Which Japanese dish is a savory pancake typically topped with cabbage, meat or seafood, and various sauces?",
+      "Answer1": "Okonomiyaki",
+      "Answer2": "Onigiri",
+      "Answer3": "Sashimi",
+      "CorrectAnswer": "Okonomiyaki",
+      "ImagePrompt": "japanese_okonomiyaki.jpg"
+    },
+    {
+      "Id": 48,
+      "Question": "Which Middle Eastern dish is made of ground chickpeas or fava beans formed into balls or patties and deep-fried?",
+      "Answer1": "Falafel",
+      "Answer2": "Dolma",
+      "Answer3": "Tabbouleh",
+      "CorrectAnswer": "Falafel",
+      "ImagePrompt": "middle_eastern_falafel_wrap.jpg"
+    },
+    {
+      "Id": 49,
+      "Question": "Which French stew is traditionally made with fish and seafood from the port city of Marseille?",
+      "Answer1": "Bouillabaisse",
+      "Answer2": "Coq au vin",
+      "Answer3": "Ratatouille",
+      "CorrectAnswer": "Bouillabaisse",
+      "ImagePrompt": "french_bouillabaisse.jpg"
+    },
+    {
+      "Id": 50,
+      "Question": "Which Japanese dish consists of thinly sliced raw fish served without rice?",
+      "Answer1": "Sashimi",
+      "Answer2": "Nigiri",
+      "Answer3": "Maki",
+      "CorrectAnswer": "Sashimi",
+      "ImagePrompt": "japanese_sashimi.jpg"
+    },
+    {
+      "Id": 51,
+      "Question": "Which Korean dish is a bowl of warm rice topped with sautéed vegetables, chili paste, and often a fried egg and sliced meat?",
+      "Answer1": "Bibimbap",
+      "Answer2": "Kimchi jjigae",
+      "Answer3": "Japchae",
+      "CorrectAnswer": "Bibimbap",
+      "ImagePrompt": "korean_bibimbap.jpg"
+    },
+    {
+      "Id": 52,
+      "Question": "Which Middle Eastern salad is made with bulgur wheat, parsley, mint, tomatoes, and lemon juice?",
+      "Answer1": "Tabbouleh",
+      "Answer2": "Fattoush",
+      "Answer3": "Shirazi salad",
+      "CorrectAnswer": "Tabbouleh",
+      "ImagePrompt": "middle_eastern_tabbouleh.jpg"
+    },
+    {
+      "Id": 53,
+      "Question": "Which Spanish dish consists of cold tomato-based soup often served in summer?",
+      "Answer1": "Gazpacho",
+      "Answer2": "Fabada",
+      "Answer3": "Salmorejo",
+      "CorrectAnswer": "Gazpacho",
+      "ImagePrompt": "spanish_gazpacho.jpg"
+    },
+    {
+      "Id": 54,
+      "Question": "Which Italian sauce is made mainly from basil, pine nuts, garlic, cheese, and olive oil, traditionally from Genoa?",
+      "Answer1": "Pesto",
+      "Answer2": "Ragù",
+      "Answer3": "Alfredo",
+      "CorrectAnswer": "Pesto",
+      "ImagePrompt": "italian_pesto_sauce.jpg"
+    },
+    {
+      "Id": 55,
+      "Question": "Which Indian bread is leavened, cooked in a tandoor, and often brushed with butter or ghee?",
+      "Answer1": "Naan",
+      "Answer2": "Roti",
+      "Answer3": "Chapati",
+      "CorrectAnswer": "Naan",
+      "ImagePrompt": "indian_naan_bread.jpg"
+    },
+    {
+      "Id": 56,
+      "Question": "Which Japanese dish involves rice and various vegetables or meat simmered together in one pot, often called a hot pot?",
+      "Answer1": "Nabemono",
+      "Answer2": "Onigiri",
+      "Answer3": "Yakitori",
+      "CorrectAnswer": "Nabemono",
+      "ImagePrompt": "japanese_nabemono_hotpot.jpg"
+    },
+    {
+      "Id": 57,
+      "Question": "Which Peruvian dish is a stir-fry combining marinated strips of beef with onions, tomatoes, and fries, often served with rice?",
+      "Answer1": "Lomo saltado",
+      "Answer2": "Aji de gallina",
+      "Answer3": "Causa",
+      "CorrectAnswer": "Lomo saltado",
+      "ImagePrompt": "peruvian_lomo_saltado.jpg"
+    },
+    {
+      "Id": 58,
+      "Question": "Which Indian dish is a rich, creamy curry made with tomatoes, butter, and cream, often served with chicken?",
+      "Answer1": "Butter chicken",
+      "Answer2": "Vindaloo",
+      "Answer3": "Dal makhani",
+      "CorrectAnswer": "Butter chicken",
+      "ImagePrompt": "indian_butter_chicken.jpg"
+    },
+    {
+      "Id": 59,
+      "Question": "Which Japanese method of cooking involves battering and deep-frying seafood and vegetables?",
+      "Answer1": "Tempura",
+      "Answer2": "Teriyaki",
+      "Answer3": "Yakitori",
+      "CorrectAnswer": "Tempura",
+      "ImagePrompt": "japanese_tempura.jpg"
+    },
+    {
+      "Id": 60,
+      "Question": "Which North African chili paste made with peppers, garlic, and spices is often served with couscous and grilled meats?",
+      "Answer1": "Harissa",
+      "Answer2": "Chermoula",
+      "Answer3": "Zhoug",
+      "CorrectAnswer": "Harissa",
+      "ImagePrompt": "north_african_harissa_paste.jpg"
+    },
+
+    {
+      "Id": 61,
+      "Question": "Which Moroccan dish consists of steamed coarse semolina granules usually served with meat and vegetables?",
+      "Answer1": "Couscous",
+      "Answer2": "Bulgur",
+      "Answer3": "Polenta",
+      "CorrectAnswer": "Couscous",
+      "ImagePrompt": "moroccan_couscous_stew.jpg"
+    },
+    {
+      "Id": 62,
+      "Question": "Which Japanese rice dish is cooked with dashi, soy sauce, and various ingredients like vegetables or seafood in the same pot as the rice?",
+      "Answer1": "Takikomi gohan",
+      "Answer2": "Onigiri",
+      "Answer3": "Chirashi",
+      "CorrectAnswer": "Takikomi gohan",
+      "ImagePrompt": "japanese_takikomi_gohan.jpg"
+    },
+    {
+      "Id": 63,
+      "Question": "Which French dish is a Provençal vegetable stew typically made with eggplant, zucchini, peppers, and tomatoes?",
+      "Answer1": "Ratatouille",
+      "Answer2": "Cassoulet",
+      "Answer3": "Pot-au-feu",
+      "CorrectAnswer": "Ratatouille",
+      "ImagePrompt": "french_ratatouille.jpg"
+    },
+    {
+      "Id": 64,
+      "Question": "Which Nordic dish consists of salmon cured with salt, sugar, and dill?",
+      "Answer1": "Gravlax",
+      "Answer2": "Lutefisk",
+      "Answer3": "Smørrebrød",
+      "CorrectAnswer": "Gravlax",
+      "ImagePrompt": "nordic_gravlax_salmon.jpg"
+    },
+    {
+      "Id": 65,
+      "Question": "Which Indian dish is a thick lentil stew cooked slowly with butter and cream, often made with black lentils?",
+      "Answer1": "Dal makhani",
+      "Answer2": "Sambar",
+      "Answer3": "Rasam",
+      "CorrectAnswer": "Dal makhani",
+      "ImagePrompt": "indian_dal_makhani.jpg"
+    },
+    {
+      "Id": 66,
+      "Question": "Which Japanese cooking method involves grilling skewered chicken over charcoal, often seasoned with tare sauce or salt?",
+      "Answer1": "Yakitori",
+      "Answer2": "Teriyaki",
+      "Answer3": "Okonomiyaki",
+      "CorrectAnswer": "Yakitori",
+      "ImagePrompt": "japanese_yakitori_skewers.jpg"
+    },
+    {
+      "Id": 67,
+      "Question": "Which Ethiopian dish is a spicy stew usually made with chicken, hard-boiled eggs, and berbere spice blend?",
+      "Answer1": "Doro wat",
+      "Answer2": "Shiro",
+      "Answer3": "Kitfo",
+      "CorrectAnswer": "Doro wat",
+      "ImagePrompt": "ethiopian_doro_wat.jpg"
+    },
+    {
+      "Id": 68,
+      "Question": "Which Georgian dish is a cheese-filled bread often shaped like a boat and topped with an egg and butter?",
+      "Answer1": "Khachapuri",
+      "Answer2": "Khinkali",
+      "Answer3": "Lobio",
+      "CorrectAnswer": "Khachapuri",
+      "ImagePrompt": "georgian_khachapuri.jpg"
+    },
+    {
+      "Id": 69,
+      "Question": "Which Japanese dish features thin slices of beef cooked quickly in a sweet soy-based broth at the table, often with vegetables and noodles?",
+      "Answer1": "Sukiyaki",
+      "Answer2": "Shabu-shabu",
+      "Answer3": "Katsudon",
+      "CorrectAnswer": "Sukiyaki",
+      "ImagePrompt": "japanese_sukiyaki_hotpot.jpg"
+    },
+    {
+      "Id": 70,
+      "Question": "Which Mexican dish is a corn dough dumpling filled with meats or beans, steamed in a corn husk or banana leaf?",
+      "Answer1": "Tamale",
+      "Answer2": "Tostada",
+      "Answer3": "Chalupa",
+      "CorrectAnswer": "Tamale",
+      "ImagePrompt": "mexican_tamales.jpg"
+    },
+    {
+      "Id": 71,
+      "Question": "Which Indonesian dish is a fried rice often flavored with sweet soy sauce and served with toppings like egg and shrimp crackers?",
+      "Answer1": "Nasi goreng",
+      "Answer2": "Satay",
+      "Answer3": "Rendang",
+      "CorrectAnswer": "Nasi goreng",
+      "ImagePrompt": "indonesian_nasi_goreng.jpg"
+    },
+    {
+      "Id": 72,
+      "Question": "Which Malaysian or Singaporean dish consists of poached chicken and seasoned rice, often served with chili sauce and cucumber?",
+      "Answer1": "Hainanese chicken rice",
+      "Answer2": "Laksa",
+      "Answer3": "Char kway teow",
+      "CorrectAnswer": "Hainanese chicken rice",
+      "ImagePrompt": "hainanese_chicken_rice.jpg"
+    },
+    {
+      "Id": 73,
+      "Question": "Which Indian dish is a tangy and spicy curry from Goa, often made with pork and vinegar?",
+      "Answer1": "Vindaloo",
+      "Answer2": "Korma",
+      "Answer3": "Saag",
+      "CorrectAnswer": "Vindaloo",
+      "ImagePrompt": "goan_vindaloo_curry.jpg"
+    },
+    {
+      "Id": 74,
+      "Question": "Which Japanese dish consists of vinegared rice topped with a breaded and fried pork cutlet and egg, served in a bowl?",
+      "Answer1": "Katsudon",
+      "Answer2": "Gyudon",
+      "Answer3": "Oyakodon",
+      "CorrectAnswer": "Katsudon",
+      "ImagePrompt": "japanese_katsudon_bowl.jpg"
+    },
+    {
+      "Id": 75,
+      "Question": "Which Lebanese or Syrian dish is a pastry filled with minced meat, onions, and pine nuts, sometimes shaped like small pies?",
+      "Answer1": "Sfiha",
+      "Answer2": "Kunafa",
+      "Answer3": "Maamoul",
+      "CorrectAnswer": "Sfiha",
+      "ImagePrompt": "middle_eastern_sfiha_meat_pies.jpg"
+    },
+    {
+      "Id": 76,
+      "Question": "Which Japanese dish is a bowl of rice topped with raw fish slices and other seafood, sometimes called scattered sushi?",
+      "Answer1": "Chirashi",
+      "Answer2": "Nigiri",
+      "Answer3": "Maki",
+      "CorrectAnswer": "Chirashi",
+      "ImagePrompt": "japanese_chirashi_bowl.jpg"
+    },
+    {
+      "Id": 77,
+      "Question": "Which North African herb and spice mixture is often used as a dry rub for meats and contains paprika, cumin, and coriander?",
+      "Answer1": "Ras el hanout",
+      "Answer2": "Dukkah",
+      "Answer3": "Za'atar",
+      "CorrectAnswer": "Ras el hanout",
+      "ImagePrompt": "north_african_ras_el_hanout_spice_mix.jpg"
+    },
+    {
+      "Id": 78,
+      "Question": "Which Japanese stew is made with curry-flavored roux, vegetables, and meat, usually served over rice?",
+      "Answer1": "Japanese curry rice",
+      "Answer2": "Oden",
+      "Answer3": "Nikujaga",
+      "CorrectAnswer": "Japanese curry rice",
+      "ImagePrompt": "japanese_curry_rice.jpg"
+    },
+    {
+      "Id": 79,
+      "Question": "Which Peruvian sauce made with yellow chili peppers and cheese is commonly served over boiled potatoes?",
+      "Answer1": "Huancaína sauce",
+      "Answer2": "Rocoto sauce",
+      "Answer3": "Chimichurri",
+      "CorrectAnswer": "Huancaína sauce",
+      "ImagePrompt": "peruvian_papa_a_la_huancaina.jpg"
+    },
+    {
+      "Id": 80,
+      "Question": "Which Nordic open-faced sandwich is typically made on rye bread with toppings like herring, cheese, or cold cuts?",
+      "Answer1": "Smørrebrød",
+      "Answer2": "Lefse",
+      "Answer3": "Kanelbulle",
+      "CorrectAnswer": "Smørrebrød",
+      "ImagePrompt": "danish_smotherbrod_open_sandwiches.jpg"
+    },
+
+    {
+      "Id": 81,
+      "Question": "Which Filipino dish is a stew made by braising meat, usually chicken or pork, in vinegar, soy sauce, garlic, and bay leaves?",
+      "Answer1": "Adobo",
+      "Answer2": "Sinigang",
+      "Answer3": "Kare-kare",
+      "CorrectAnswer": "Adobo",
+      "ImagePrompt": "filipino_adobo_stew.jpg"
+    },
+    {
+      "Id": 82,
+      "Question": "Which West African one-pot rice dish is traditionally cooked in a rich tomato and chili base and is a point of pride in countries like Ghana and Nigeria?",
+      "Answer1": "Jollof rice",
+      "Answer2": "Pilau",
+      "Answer3": "Thieboudienne",
+      "CorrectAnswer": "Jollof rice",
+      "ImagePrompt": "west_african_jollof_rice_pot.jpg"
+    },
+    {
+      "Id": 83,
+      "Question": "Which Korean stew is made with kimchi, tofu, and often pork, simmered together to create a spicy and sour soup?",
+      "Answer1": "Kimchi jjigae",
+      "Answer2": "Sundubu jjigae",
+      "Answer3": "Doenjang jjigae",
+      "CorrectAnswer": "Kimchi jjigae",
+      "ImagePrompt": "korean_kimchi_jjigae.jpg"
+    },
+    {
+      "Id": 84,
+      "Question": "Which Egyptian street food dish is made of rice, lentils, pasta, tomato sauce, and fried onions layered together?",
+      "Answer1": "Koshari",
+      "Answer2": "Ful medames",
+      "Answer3": "Molokhia",
+      "CorrectAnswer": "Koshari",
+      "ImagePrompt": "egyptian_koshari_street_food.jpg"
+    },
+    {
+      "Id": 85,
+      "Question": "Which Japanese cooking technique involves breading ingredients in panko and deep-frying them on skewers, often served with dipping sauce?",
+      "Answer1": "Kushikatsu",
+      "Answer2": "Robatayaki",
+      "Answer3": "Shabu-shabu",
+      "CorrectAnswer": "Kushikatsu",
+      "ImagePrompt": "japanese_kushikatsu_skewers.jpg"
+    },
+    {
+      "Id": 86,
+      "Question": "Which Filipino dish is a sour soup made with tamarind and often includes pork or shrimp and various vegetables?",
+      "Answer1": "Sinigang",
+      "Answer2": "Bulalo",
+      "Answer3": "Laing",
+      "CorrectAnswer": "Sinigang",
+      "ImagePrompt": "filipino_sinigang_soup.jpg"
+    },
+    {
+      "Id": 87,
+      "Question": "Which Japanese winter dish consists of various ingredients like fish cakes, daikon, and boiled eggs simmered in a light soy-flavored broth?",
+      "Answer1": "Oden",
+      "Answer2": "Sukiyaki",
+      "Answer3": "Nabemono",
+      "CorrectAnswer": "Oden",
+      "ImagePrompt": "japanese_oden_hotpot.jpg"
+    },
+    {
+      "Id": 88,
+      "Question": "Which Indonesian dish is a rich beef stew slowly cooked in coconut milk and spices until the liquid is mostly absorbed?",
+      "Answer1": "Rendang",
+      "Answer2": "Satay",
+      "Answer3": "Gado-gado",
+      "CorrectAnswer": "Rendang",
+      "ImagePrompt": "indonesian_beef_rendang.jpg"
+    },
+    {
+      "Id": 89,
+      "Question": "Which Peruvian-Japanese fusion style of cuisine combines raw fish with Peruvian ingredients like aji peppers and citrus?",
+      "Answer1": "Nikkei cuisine",
+      "Answer2": "Tex-Mex cuisine",
+      "Answer3": "Creole cuisine",
+      "CorrectAnswer": "Nikkei cuisine",
+      "ImagePrompt": "nikkei_cuisine_fusion_platter.jpg"
+    },
+    {
+      "Id": 90,
+      "Question": "Which Syrian or Lebanese dessert is a cheese-based pastry soaked in sugar syrup and often topped with crushed pistachios?",
+      "Answer1": "Kunafa",
+      "Answer2": "Baklava",
+      "Answer3": "Basbousa",
+      "CorrectAnswer": "Kunafa",
+      "ImagePrompt": "middle_eastern_kunafa_dessert.jpg"
+    },
+    {
+      "Id": 91,
+      "Question": "Which Japanese dish involves quickly swishing thin slices of meat in hot broth, then dipping them in sauces before eating?",
+      "Answer1": "Shabu-shabu",
+      "Answer2": "Sukiyaki",
+      "Answer3": "Yakiniku",
+      "CorrectAnswer": "Shabu-shabu",
+      "ImagePrompt": "japanese_shabu_shabu_hotpot.jpg"
+    },
+    {
+      "Id": 92,
+      "Question": "Which Argentinian sauce made of parsley, garlic, oregano, and oil is commonly served with grilled meats?",
+      "Answer1": "Chimichurri",
+      "Answer2": "Salsa criolla",
+      "Answer3": "Ají amarillo",
+      "CorrectAnswer": "Chimichurri",
+      "ImagePrompt": "argentinian_chimichurri_steak.jpg"
+    },
+    {
+      "Id": 93,
+      "Question": "Which Japanese cooking style features bite-sized pieces of food grilled on skewers over charcoal, similar to yakitori but including vegetables and other meats?",
+      "Answer1": "Kushiyaki",
+      "Answer2": "Teppanyaki",
+      "Answer3": "Robatayaki",
+      "CorrectAnswer": "Kushiyaki",
+      "ImagePrompt": "japanese_kushiyaki_assorted_skewers.jpg"
+    },
+    {
+      "Id": 94,
+      "Question": "Which West African dish from Senegal consists of fish, rice, and vegetables cooked together, often considered a national dish?",
+      "Answer1": "Thieboudienne",
+      "Answer2": "Egusi soup",
+      "Answer3": "Ndole",
+      "CorrectAnswer": "Thieboudienne",
+      "ImagePrompt": "senegalese_thieboudienne_rice_fish.jpg"
+    },
+    {
+      "Id": 95,
+      "Question": "Which Japanese dish is a rice bowl topped with simmered chicken and egg in a dashi-based sauce, sometimes called parent-and-child bowl?",
+      "Answer1": "Oyakodon",
+      "Answer2": "Gyudon",
+      "Answer3": "Katsudon",
+      "CorrectAnswer": "Oyakodon",
+      "ImagePrompt": "japanese_oyakodon_bowl.jpg"
+    },
+    {
+      "Id": 96,
+      "Question": "Which Indian snack is a deep-fried pastry filled with spiced potatoes and peas, often served with chutneys?",
+      "Answer1": "Samosa",
+      "Answer2": "Pakora",
+      "Answer3": "Bhaji",
+      "CorrectAnswer": "Samosa",
+      "ImagePrompt": "indian_samosas_with_chutney.jpg"
+    },
+    {
+      "Id": 97,
+      "Question": "Which Japanese dish consists of vinegared rice formed into a rectangle and topped with grilled eel and a sweet soy-based glaze?",
+      "Answer1": "Unagi sushi",
+      "Answer2": "Inari sushi",
+      "Answer3": "Temaki",
+      "CorrectAnswer": "Unagi sushi",
+      "ImagePrompt": "japanese_unagi_sushi_platter.jpg"
+    },
+    {
+      "Id": 98,
+      "Question": "Which Mexican breakfast dish consists of fried tortilla pieces simmered in red or green salsa and topped with cheese and sometimes eggs?",
+      "Answer1": "Chilaquiles",
+      "Answer2": "Huevos rancheros",
+      "Answer3": "Molletes",
+      "CorrectAnswer": "Chilaquiles",
+      "ImagePrompt": "mexican_chilaquiles_breakfast.jpg"
+    },
+    {
+      "Id": 99,
+      "Question": "Which Japanese street food consists of small round batter balls filled with diced octopus and topped with sauce, mayo, and bonito flakes?",
+      "Answer1": "Takoyaki",
+      "Answer2": "Taiyaki",
+      "Answer3": "Dorayaki",
+      "CorrectAnswer": "Takoyaki",
+      "ImagePrompt": "japanese_takoyaki_street_food.jpg"
+    },
+    {
+      "Id": 100,
+      "Question": "Which South African dish is a spiced minced meat baked with an egg-based topping, often considered a national dish?",
+      "Answer1": "Bobotie",
+      "Answer2": "Bunny chow",
+      "Answer3": "Boerewors",
+      "CorrectAnswer": "Bobotie",
+      "ImagePrompt": "south_african_bobotie_casserole.jpg"
+    }
+  ]
+}

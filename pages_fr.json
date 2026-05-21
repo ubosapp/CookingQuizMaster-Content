@@ -1,0 +1,36 @@
+{
+  "Pages": [
+    {
+      "Name": "MainPage",
+      "Title": "Cooking Quiz Master",
+      "Description": "Testez vos connaissances culinaires !",
+      "Details": "Bienvenue dans Cooking Quiz Master, le défi culinaire ultime qui mettra vos connaissances gastronomiques à l’épreuve !\\nPlongez dans les saveurs du monde avec notre collection de 100 questions soigneusement élaborées, chacune conçue pour éveiller vos papilles et enrichir votre culture culinaire.\\nVoici les règles du jeu :\\n\\n1. Préparez-vous à affronter 100 questions brûlantes.\\n\\n2. Chaque question propose 3 réponses, mais une seule est la bonne.\\n\\n3. À la première tentative, vous gagnez 3 délicieux points. À la deuxième tentative, vous obtenez 1 point. Si vous avez besoin de trois essais, le score est de 0.\\n\\n4. La vie continue ! Vous pouvez quitter l’application et revenir plus tard, en reprenant exactement là où vous vous étiez arrêté dans votre voyage culinaire.\\n\\n5. Une fois le quiz commencé, vous êtes engagé jusqu’au bout. Pas de retour en arrière avant d’avoir savouré les 100 questions. Bonne chance et bon appétit !",
+      "ImageUrl": "CookingQuizMasterMen2.png",
+      "ButtonDescription": "Lançons le quiz !"
+    },
+    {
+      "Name": "QuizPage",
+      "Title": "Cooking Quiz Master",
+      "Description": "Score :",
+      "Details": "",
+      "ImageUrl": "",
+      "ButtonDescription": ""
+    },
+    {
+      "Name": "QuizResultPage",
+      "Title": "Félicitations !",
+      "Description": "Vous avez terminé le défi Cooking Quiz Master.\\nVos connaissances culinaires ont été mises à l’épreuve et nous sommes ravis de vous révéler vos résultats :",
+      "Details": "Score : [Insert Score] sur 300;Niveau : [Insert Level]",
+      "ImageUrl": "CookingQuizMasterMen2.png",
+      "ButtonDescription": "Rejouer le quiz"
+    },
+    {
+      "Name": "ProfilePage",
+      "Title": "Bienvenue, Chef !",
+      "Description": "Quel que soit votre niveau, vous êtes un véritable passionné de cuisine et nous saluons votre volonté d’élargir vos horizons gastronomiques.\\nContinuez sur cette voie et continuez à savourer les merveilles culinaires du monde.",
+      "Details": "Vos résultats du quiz :",
+      "ImageUrl": "cookingquizmasterwoman2.png",
+      "ButtonDescription": ""
+    }
+  ]
+}

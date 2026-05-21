@@ -1,0 +1,36 @@
+{
+  "Pages": [
+    {
+      "Name": "MainPage",
+      "Title": "Cooking Quiz Master",
+      "Description": "¡Pon a prueba tus conocimientos culinarios!",
+      "Details": "Bienvenido a Cooking Quiz Master, el desafío culinario definitivo que pondrá a prueba tus conocimientos sobre comida.\\nSumérgete en los sabores del mundo con nuestra colección de 100 preguntas cuidadosamente elaboradas, cada una diseñada para estimular tu paladar y ampliar tu experiencia culinaria.\\nEstas son las reglas del juego:\\n\\n1. Prepárate para enfrentarte a 100 preguntas candentes.\\n\\n2. Cada pregunta te ofrece 3 respuestas, pero solo una es la correcta.\\n\\n3. En el primer intento ganas 3 sabrosos puntos. En el segundo intento obtienes 1 punto. Si necesitas tres intentos, el resultado es 0 puntos.\\n\\n4. ¡La vida sigue! Puedes cerrar la app y volver más tarde, retomando exactamente donde dejaste tu viaje culinario.\\n\\n5. Una vez que empieces el quiz, estás dentro hasta el final. No hay vuelta atrás hasta que hayas disfrutado las 100 preguntas. ¡Buena suerte y buen provecho!",
+      "ImageUrl": "CookingQuizMasterMen2.png",
+      "ButtonDescription": "¡Empecemos el quiz!"
+    },
+    {
+      "Name": "QuizPage",
+      "Title": "Cooking Quiz Master",
+      "Description": "Puntuación:",
+      "Details": "",
+      "ImageUrl": "",
+      "ButtonDescription": ""
+    },
+    {
+      "Name": "QuizResultPage",
+      "Title": "¡Enhorabuena!",
+      "Description": "Has completado el desafío de Cooking Quiz Master.\\nTus conocimientos culinarios han sido puestos a prueba y nos encanta mostrarte tus resultados:",
+      "Details": "Puntuación: [Insert Score] de 300;Nivel: [Insert Level]",
+      "ImageUrl": "CookingQuizMasterMen2.png",
+      "ButtonDescription": "Volver a jugar"
+    },
+    {
+      "Name": "ProfilePage",
+      "Title": "¡Bienvenido, Chef!",
+      "Description": "Sea cual sea tu nivel, eres un verdadero amante de la buena comida y aplaudimos tu compromiso por ampliar tus horizontes gastronómicos.\\nSigue así y continúa saboreando las maravillas culinarias del mundo.",
+      "Details": "Tus resultados del quiz:",
+      "ImageUrl": "cookingquizmasterwoman2.png",
+      "ButtonDescription": ""
+    }
+  ]
+}

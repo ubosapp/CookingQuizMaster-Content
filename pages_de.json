@@ -1,0 +1,36 @@
+{
+  "Pages": [
+    {
+      "Name": "MainPage",
+      "Title": "Cooking Quiz Master",
+      "Description": "Teste dein kulinarisches Wissen!",
+      "Details": "Willkommen bei Cooking Quiz Master, der ultimativen kulinarischen Herausforderung, die dein Wissen über Essen auf die Probe stellt!\\nTauche ein in die Aromen der Welt mit unserer Sammlung von 100 sorgfältig ausgearbeiteten Fragen, die deine Geschmacksknospen kitzeln und dein Küchenwissen erweitern.\\nHier sind die Spielregeln:\\n\\n1. Mach dich bereit, 100 heiße Fragen zu meistern.\\n\\n2. Jede Frage bietet 3 Antworten, aber nur eine ist wirklich richtig.\\n\\n3. Beim ersten Versuch erhältst du leckere 3 Punkte. Beim zweiten Versuch gibt es noch 1 Punkt. Wenn du drei Versuche brauchst, gibt es 0 Punkte.\\n\\n4. Das Leben passiert! Du kannst die App schließen und später zurückkehren und genau dort weitermachen, wo du deine kulinarische Reise unterbrochen hast.\\n\\n5. Sobald du das Quiz gestartet hast, bleibst du bis zum Ende dabei. Kein Zurück, bis du alle 100 Fragen beantwortet hast. Viel Erfolg und guten Appetit!",
+      "ImageUrl": "CookingQuizMasterMen2.png",
+      "ButtonDescription": "Quiz starten!"
+    },
+    {
+      "Name": "QuizPage",
+      "Title": "Cooking Quiz Master",
+      "Description": "Punktzahl:",
+      "Details": "",
+      "ImageUrl": "",
+      "ButtonDescription": ""
+    },
+    {
+      "Name": "QuizResultPage",
+      "Title": "Herzlichen Glückwunsch!",
+      "Description": "Du hast die Cooking Quiz Master‑Challenge abgeschlossen.\\nDein kulinarisches Wissen wurde auf die Probe gestellt und wir freuen uns, dir dein Ergebnis zu zeigen:",
+      "Details": "Punktzahl: [Insert Score] von 300;Level: [Insert Level]",
+      "ImageUrl": "CookingQuizMasterMen2.png",
+      "ButtonDescription": "Noch einmal kochen!"
+    },
+    {
+      "Name": "ProfilePage",
+      "Title": "Willkommen, Chef!",
+      "Description": "Ganz egal auf welchem Niveau du bist – du bist ein echter Food‑Enthusiast, und wir schätzen dein Engagement, deinen kulinarischen Horizont zu erweitern.\\nMach weiter so und entdecke weiterhin die kulinarischen Wunder der Welt.",
+      "Details": "Deine Quiz‑Ergebnisse:",
+      "ImageUrl": "cookingquizmasterwoman2.png",
+      "ButtonDescription": ""
+    }
+  ]
+}

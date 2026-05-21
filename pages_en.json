@@ -1,0 +1,36 @@
+{
+  "Pages": [
+    {
+      "Name": "MainPage",
+      "Title": "Cooking Quiz Master",
+      "Description": "Test your culinary knowledge!",
+      "Details": "Welcome to Cooking Quiz Master, the ultimate culinary challenge that will put your food knowledge to the test!\\nDive into the flavors of the world with our collection of 100 carefully crafted questions, each designed to tantalize your taste buds and expand your culinary expertise\\nHere are the game rules:\\n\\n1. Get ready to tackle 100 sizzling questions.\\n\\n2. Each question serves up 3 answers, but only one is he real flavor.\\n\\n3. On the first try, a delectable 3 points are yours. Second time's the charm for a tasty 1 point. If it takes hree tries, it's a polite zero points.\\n\\n4. Life happens! You can exit the app and return later, picking up right where you left off n your culinary journey.\\n\\n5. Once you've started the quiz, you're in it for the long haul. No turning back until you've savored all 100 questions. Good luck and bon appétit! 🍽️🎉",
+      "ImageUrl": "CookingQuizMasterMen2.png",
+      "ButtonDescription": "Let's Get Quiz!"
+    },
+    {
+      "Name": "QuizPage",
+      "Title": "Cooking Quiz Master",
+      "Description": "Score:",
+      "Details": "",
+      "ImageUrl": "",
+      "ButtonDescription": ""
+    },
+    {
+      "Name": "QuizResultPage",
+      "Title": "Congratulations!",
+      "Description": "You've completed the Cooking Quiz Master challenge.\\nYour culinary knowledge has been put to the test, and we're thrilled to reveal your results.:",
+      "Details": "Score: [Insert Score] out of 300;Level: [Insert Level]",
+      "ImageUrl": "CookingQuizMasterMen2.png",
+      "ButtonDescription": "Let's Cook It Up Again"
+    },
+    {
+      "Name": "ProfilePage",
+      "Title": "Welcome, Chef!",
+      "Description": "No matter your level, you're a true food enthusiast, and we applaud your commitment to expanding your gastronomic horizons.\\nKeep up the great work and continue savoring the world's culinary wonders.",
+      "Details": "Your Quiz Results:",
+      "ImageUrl": "cookingquizmasterwoman2.png",
+      "ButtonDescription": ""
+    }
+  ]
+}
