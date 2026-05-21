@@ -3,9 +3,9 @@
     {
       "Id": 1,
       "Question": "Welches Land wird am stärksten mit Sushi als traditionellem Gericht verbunden?",
-      "Answer1": "Japan",
+      "Answer1": "Deutschland",
       "Answer2": "Brasilien",
-      "Answer3": "Deutschland",
+      "Answer3": "Japan",
       "CorrectAnswer": "Japan",
       "ImagePrompt": "sushi_japan.jpg"
     },
@@ -39,18 +39,18 @@
     {
       "Id": 5,
       "Question": "Welches Land ist für Croissants und Baguettes berühmt?",
-      "Answer1": "Frankreich",
-      "Answer2": "Kanada",
-      "Answer3": "Ägypten",
+      "Answer1": "Ägypten",
+      "Answer2": "Frankreich",
+      "Answer3": "Kanada",
       "CorrectAnswer": "Frankreich",
       "ImagePrompt": "french_croissant.jpg"
     },
     {
       "Id": 6,
       "Question": "Paella ist ein berühmtes Reisgericht aus welchem Land?",
-      "Answer1": "Spanien",
-      "Answer2": "Japan",
-      "Answer3": "Südafrika",
+      "Answer1": "Südafrika",
+      "Answer2": "Spanien",
+      "Answer3": "Japan",
       "CorrectAnswer": "Spanien",
       "ImagePrompt": "spanish_paella.jpg"
     },
@@ -66,9 +66,9 @@
     {
       "Id": 8,
       "Question": "Welches Land ist für das traditionelle Gericht Poutine aus Pommes frites, Käsebröckchen und Soße bekannt?",
-      "Answer1": "Kanada",
-      "Answer2": "Marokko",
-      "Answer3": "Vietnam",
+      "Answer1": "Vietnam",
+      "Answer2": "Kanada",
+      "Answer3": "Marokko",
       "CorrectAnswer": "Kanada",
       "ImagePrompt": "canadian_poutine.jpg"
     },
@@ -84,8 +84,8 @@
     {
       "Id": 10,
       "Question": "Welches Land ist für Dim Sum und Gerichte wie Teigtaschen und Frühlingsrollen berühmt?",
-      "Answer1": "China",
-      "Answer2": "Brasilien",
+      "Answer1": "Brasilien",
+      "Answer2": "China",
       "Answer3": "Polen",
       "CorrectAnswer": "China",
       "ImagePrompt": "chinese_dim_sum.jpg"
@@ -93,27 +93,27 @@
     {
       "Id": 11,
       "Question": "Welches Land wird stark mit Sauerkraut und Würstchen als traditionelle Speisen verbunden?",
-      "Answer1": "Deutschland",
+      "Answer1": "Mexiko",
       "Answer2": "Malaysia",
-      "Answer3": "Mexiko",
+      "Answer3": "Deutschland",
       "CorrectAnswer": "Deutschland",
       "ImagePrompt": "german_sausages_sauerkraut.jpg"
     },
     {
       "Id": 12,
       "Question": "Welches Land ist für Feijoada, einen herzhaften Eintopf aus Bohnen und Fleisch, bekannt?",
-      "Answer1": "Brasilien",
-      "Answer2": "Japan",
-      "Answer3": "Schweiz",
+      "Answer1": "Schweiz",
+      "Answer2": "Brasilien",
+      "Answer3": "Japan",
       "CorrectAnswer": "Brasilien",
       "ImagePrompt": "brazilian_feijoada.jpg"
     },
     {
       "Id": 13,
       "Question": "In welchem Land ist Kimchi, ein scharf fermentiertes Kohlgericht, ein Grundnahrungsmittel?",
-      "Answer1": "Südkorea",
-      "Answer2": "Australien",
-      "Answer3": "Griechenland",
+      "Answer1": "Griechenland",
+      "Answer2": "Südkorea",
+      "Answer3": "Australien",
       "CorrectAnswer": "Südkorea",
       "ImagePrompt": "korean_kimchi.jpg"
     },
@@ -129,8 +129,8 @@
     {
       "Id": 15,
       "Question": "Welches Land ist für das Nationalgericht Irish Stew aus Lamm- oder Rindfleisch und Gemüse berühmt?",
-      "Answer1": "Irland",
-      "Answer2": "Thailand",
+      "Answer1": "Thailand",
+      "Answer2": "Irland",
       "Answer3": "Peru",
       "CorrectAnswer": "Irland",
       "ImagePrompt": "irish_stew.jpg"
@@ -138,9 +138,9 @@
     {
       "Id": 16,
       "Question": "Welches Land wird traditionell mit Wiener Schnitzel, einem panierten Kalbsschnitzel, verbunden?",
-      "Answer1": "Österreich",
-      "Answer2": "Japan",
-      "Answer3": "Kenia",
+      "Answer1": "Japan",
+      "Answer2": "Kenia",
+      "Answer3": "Österreich",
       "CorrectAnswer": "Österreich",
       "ImagePrompt": "austrian_wiener_schnitzel.jpg"
     },
@@ -148,17 +148,17 @@
       "Id": 17,
       "Question": "Welches Land ist am bekanntesten für Pho, eine aromatische Nudelsuppe?",
       "Answer1": "Vietnam",
-      "Answer2": "Portugal",
-      "Answer3": "Schweden",
+      "Answer2": "Schweden",
+      "Answer3": "Portugal",
       "CorrectAnswer": "Vietnam",
       "ImagePrompt": "vietnamese_pho.jpg"
     },
     {
       "Id": 18,
       "Question": "Welches Land ist für das Nationalgericht Asado, eine Art gegrilltes Fleisch, berühmt?",
-      "Answer1": "Argentinien",
-      "Answer2": "Indien",
-      "Answer3": "Finnland",
+      "Answer1": "Finnland",
+      "Answer2": "Argentinien",
+      "Answer3": "Indien",
       "CorrectAnswer": "Argentinien",
       "ImagePrompt": "argentinian_asado.jpg"
     },
@@ -175,12 +175,11 @@
       "Id": 20,
       "Question": "Beshbarmak, ein Gericht aus gekochtem Fleisch und Nudeln, ist Nationalgericht welches Landes?",
       "Answer1": "Kasachstan",
-      "Answer2": "Italien",
-      "Answer3": "Mexiko",
+      "Answer2": "Mexiko",
+      "Answer3": "Italien",
       "CorrectAnswer": "Kasachstan",
       "ImagePrompt": "kazakh_beshbarmak.jpg"
     },
-
     {
       "Id": 21,
       "Question": "Welcher Käse wird traditionell auf einer klassischen neapolitanischen Pizza Margherita verwendet?",
@@ -193,26 +192,26 @@
     {
       "Id": 22,
       "Question": "Ramen ist eine beliebte Nudelsuppe, die ursprünglich aus welchem Land stammt?",
-      "Answer1": "Japan",
-      "Answer2": "Griechenland",
-      "Answer3": "Marokko",
+      "Answer1": "Griechenland",
+      "Answer2": "Marokko",
+      "Answer3": "Japan",
       "CorrectAnswer": "Japan",
       "ImagePrompt": "japanese_ramen.jpg"
     },
     {
       "Id": 23,
       "Question": "Welche Garmethode besteht darin, Lebensmittel schnell in wenig sehr heißem Öl zu braten und wird oft in der chinesischen Küche verwendet?",
-      "Answer1": "Pfannenrühren",
+      "Answer1": "Dämpfen",
       "Answer2": "Kochen",
-      "Answer3": "Dämpfen",
+      "Answer3": "Pfannenrühren",
       "CorrectAnswer": "Pfannenrühren",
       "ImagePrompt": "stir_frying_wok.jpg"
     },
     {
       "Id": 24,
       "Question": "Welcher Reistyp wird in der italienischen Küche typischerweise zur Zubereitung von Risotto verwendet?",
-      "Answer1": "Arborio",
-      "Answer2": "Basmati",
+      "Answer1": "Basmati",
+      "Answer2": "Arborio",
       "Answer3": "Jasmin",
       "CorrectAnswer": "Arborio",
       "ImagePrompt": "arborio_risotto.jpg"
@@ -229,8 +228,8 @@
     {
       "Id": 26,
       "Question": "Welches italienische Pastagericht wird traditionell mit Eiern, gepökeltem Schweinefleisch, Käse und schwarzem Pfeffer ohne Sahne zubereitet?",
-      "Answer1": "Carbonara",
-      "Answer2": "Lasagne",
+      "Answer1": "Lasagne",
+      "Answer2": "Carbonara",
       "Answer3": "Pesto",
       "CorrectAnswer": "Carbonara",
       "ImagePrompt": "italian_carbonara.jpg"
@@ -238,36 +237,36 @@
     {
       "Id": 27,
       "Question": "Welches Gericht aus dem Nahen Osten besteht aus gegrilltem Hackfleisch und wird oft am Spieß serviert?",
-      "Answer1": "Kebab",
+      "Answer1": "Paella",
       "Answer2": "Sushi",
-      "Answer3": "Paella",
+      "Answer3": "Kebab",
       "CorrectAnswer": "Kebab",
       "ImagePrompt": "middle_eastern_kebab.jpg"
     },
     {
       "Id": 28,
       "Question": "Welches französische Gericht ist ein langsam gegarter Auflauf aus weißen Bohnen und Fleisch, oft Ente oder Wurst?",
-      "Answer1": "Cassoulet",
-      "Answer2": "Ratatouille",
-      "Answer3": "Bouillabaisse",
+      "Answer1": "Bouillabaisse",
+      "Answer2": "Cassoulet",
+      "Answer3": "Ratatouille",
       "CorrectAnswer": "Cassoulet",
       "ImagePrompt": "french_cassoulet.jpg"
     },
     {
       "Id": 29,
       "Question": "Welche scharfe rote Paste aus Chilischoten ist eine wichtige Zutat in vielen koreanischen Gerichten?",
-      "Answer1": "Gochujang",
-      "Answer2": "Wasabi",
-      "Answer3": "Pesto",
+      "Answer1": "Wasabi",
+      "Answer2": "Pesto",
+      "Answer3": "Gochujang",
       "CorrectAnswer": "Gochujang",
       "ImagePrompt": "korean_gochujang_paste.jpg"
     },
     {
       "Id": 30,
       "Question": "Wie heißen die klassischen spanischen kleinen Gerichte, zum Beispiel Oliven, Käse und Meeresfrüchte, die als Snacks serviert werden?",
-      "Answer1": "Tapas",
-      "Answer2": "Dim Sum",
-      "Answer3": "Meze",
+      "Answer1": "Dim Sum",
+      "Answer2": "Meze",
+      "Answer3": "Tapas",
       "CorrectAnswer": "Tapas",
       "ImagePrompt": "spanish_tapas.jpg"
     },
@@ -284,8 +283,8 @@
       "Id": 32,
       "Question": "Welches nordafrikanische Gericht ist ein langsam gegarter Eintopf, oft aus Lamm oder Huhn mit Gemüse, der in einem konischen Topf gekocht wird?",
       "Answer1": "Tajine",
-      "Answer2": "Ramen",
-      "Answer3": "Fondue",
+      "Answer2": "Fondue",
+      "Answer3": "Ramen",
       "CorrectAnswer": "Tajine",
       "ImagePrompt": "moroccan_tagine.jpg"
     },
@@ -301,45 +300,45 @@
     {
       "Id": 34,
       "Question": "Welches fermentierte Sojaprodukt wird häufig in japanischer Misosuppe verwendet?",
-      "Answer1": "Misopaste",
-      "Answer2": "Tahini",
-      "Answer3": "Hummus",
+      "Answer1": "Hummus",
+      "Answer2": "Misopaste",
+      "Answer3": "Tahini",
       "CorrectAnswer": "Misopaste",
       "ImagePrompt": "japanese_miso_paste.jpg"
     },
     {
       "Id": 35,
       "Question": "In welchem Ofen wird Tandoori-Hähnchen traditionell zubereitet?",
-      "Answer1": "Tandoor-Ofen",
-      "Answer2": "Holzofen für Pizza",
-      "Answer3": "Mikrowellenherd",
+      "Answer1": "Mikrowellenherd",
+      "Answer2": "Tandoor-Ofen",
+      "Answer3": "Holzofen für Pizza",
       "CorrectAnswer": "Tandoor-Ofen",
       "ImagePrompt": "indian_tandoor_oven.jpg"
     },
     {
       "Id": 36,
       "Question": "Ceviche, ein Gericht aus rohem Fisch, der in Zitrussaft mariniert wird, ist besonders mit welchem südamerikanischen Land verbunden?",
-      "Answer1": "Peru",
+      "Answer1": "Ägypten",
       "Answer2": "Norwegen",
-      "Answer3": "Ägypten",
+      "Answer3": "Peru",
       "CorrectAnswer": "Peru",
       "ImagePrompt": "peruvian_ceviche.jpg"
     },
     {
       "Id": 37,
       "Question": "Welches italienische Dessert besteht aus Schichten von in Kaffee getränkten Löffelbiskuits und Mascarponecreme?",
-      "Answer1": "Tiramisu",
-      "Answer2": "Panna Cotta",
-      "Answer3": "Cannolo",
+      "Answer1": "Cannolo",
+      "Answer2": "Tiramisu",
+      "Answer3": "Panna Cotta",
       "CorrectAnswer": "Tiramisu",
       "ImagePrompt": "italian_tiramisu.jpg"
     },
     {
       "Id": 38,
       "Question": "Welche Garmethode besteht darin, Lebensmittel in heißer Flüssigkeit knapp unter dem Siedepunkt zu garen und wird oft für Eier und Fisch verwendet?",
-      "Answer1": "Pochieren",
-      "Answer2": "Frittieren",
-      "Answer3": "Grillen",
+      "Answer1": "Frittieren",
+      "Answer2": "Grillen",
+      "Answer3": "Pochieren",
       "CorrectAnswer": "Pochieren",
       "ImagePrompt": "poaching_eggs.jpg"
     },
@@ -347,27 +346,26 @@
       "Id": 39,
       "Question": "Welches Gericht aus dem Nahen Osten besteht aus kleinen Tellern wie Hummus, Oliven und gegrilltem Fleisch, die zusammen als Auswahl serviert werden?",
       "Answer1": "Meze",
-      "Answer2": "Tapas",
-      "Answer3": "Bento",
+      "Answer2": "Bento",
+      "Answer3": "Tapas",
       "CorrectAnswer": "Meze",
       "ImagePrompt": "middle_eastern_meze.jpg"
     },
     {
       "Id": 40,
       "Question": "Welches traditionelle äthiopische Gericht ist ein säuerliches Fladenbrot, das sowohl als Teller als auch als Besteck für Eintöpfe dient?",
-      "Answer1": "Injera",
-      "Answer2": "Naan",
-      "Answer3": "Tortilla",
+      "Answer1": "Tortilla",
+      "Answer2": "Injera",
+      "Answer3": "Naan",
       "CorrectAnswer": "Injera",
       "ImagePrompt": "ethiopian_injera.jpg"
     },
-
     {
       "Id": 41,
       "Question": "Welches japanische Gericht besteht aus einem panierten und frittierten Schnitzel, das oft mit fein gehobeltem Kohl und Reis serviert wird?",
-      "Answer1": "Tonkatsu",
-      "Answer2": "Tempura",
-      "Answer3": "Okonomiyaki",
+      "Answer1": "Tempura",
+      "Answer2": "Okonomiyaki",
+      "Answer3": "Tonkatsu",
       "CorrectAnswer": "Tonkatsu",
       "ImagePrompt": "japanese_tonkatsu.jpg"
     },
@@ -375,8 +373,8 @@
       "Id": 42,
       "Question": "Welches thailändische Gericht ist ein gebratenes Reisnudelgericht mit Ei, Tofu oder Garnelen und einer Tamarindensauce?",
       "Answer1": "Pad Thai",
-      "Answer2": "Tom Yum",
-      "Answer3": "Grünes Curry",
+      "Answer2": "Grünes Curry",
+      "Answer3": "Tom Yum",
       "CorrectAnswer": "Pad Thai",
       "ImagePrompt": "thai_pad_thai.jpg"
     },
@@ -392,8 +390,8 @@
     {
       "Id": 44,
       "Question": "Welches mexikanische Gericht besteht aus einer Tortilla, die mit Käse und oft weiteren Zutaten gefüllt, zur Hälfte gefaltet und auf einer Platte gebraten wird?",
-      "Answer1": "Quesadilla",
-      "Answer2": "Enchilada",
+      "Answer1": "Enchilada",
+      "Answer2": "Quesadilla",
       "Answer3": "Tamale",
       "CorrectAnswer": "Quesadilla",
       "ImagePrompt": "mexican_quesadilla.jpg"
@@ -401,9 +399,9 @@
     {
       "Id": 45,
       "Question": "Welches türkische Dessert besteht aus Schichten von Filoteig, die mit gehackten Nüssen gefüllt und mit Sirup oder Honig gesüßt werden?",
-      "Answer1": "Baklava",
-      "Answer2": "Lokum",
-      "Answer3": "Simit",
+      "Answer1": "Simit",
+      "Answer2": "Baklava",
+      "Answer3": "Lokum",
       "CorrectAnswer": "Baklava",
       "ImagePrompt": "turkish_baklava.jpg"
     },
@@ -419,8 +417,8 @@
     {
       "Id": 47,
       "Question": "Welches japanische Gericht ist ein herzhafter Pfannkuchen, der typischerweise mit Kohl, Fleisch oder Meeresfrüchten und verschiedenen Saucen belegt wird?",
-      "Answer1": "Okonomiyaki",
-      "Answer2": "Onigiri",
+      "Answer1": "Onigiri",
+      "Answer2": "Okonomiyaki",
       "Answer3": "Sashimi",
       "CorrectAnswer": "Okonomiyaki",
       "ImagePrompt": "japanese_okonomiyaki.jpg"
@@ -428,63 +426,63 @@
     {
       "Id": 48,
       "Question": "Welches Gericht aus dem Nahen Osten besteht aus gemahlenen Kichererbsen oder Saubohnen, die zu Bällchen geformt und frittiert werden?",
-      "Answer1": "Falafel",
-      "Answer2": "Dolma",
-      "Answer3": "Taboulé",
+      "Answer1": "Taboulé",
+      "Answer2": "Falafel",
+      "Answer3": "Dolma",
       "CorrectAnswer": "Falafel",
       "ImagePrompt": "middle_eastern_falafel_wrap.jpg"
     },
     {
       "Id": 49,
       "Question": "Welcher französische Fischeintopf wird traditionell mit Fisch und Meeresfrüchten aus der Hafenstadt Marseille zubereitet?",
-      "Answer1": "Bouillabaisse",
+      "Answer1": "Ratatouille",
       "Answer2": "Coq au Vin",
-      "Answer3": "Ratatouille",
+      "Answer3": "Bouillabaisse",
       "CorrectAnswer": "Bouillabaisse",
       "ImagePrompt": "french_bouillabaisse.jpg"
     },
     {
       "Id": 50,
       "Question": "Welches japanische Gericht besteht aus dünn geschnittenem rohem Fisch, der ohne Reis serviert wird?",
-      "Answer1": "Sashimi",
-      "Answer2": "Nigiri",
-      "Answer3": "Maki",
+      "Answer1": "Nigiri",
+      "Answer2": "Maki",
+      "Answer3": "Sashimi",
       "CorrectAnswer": "Sashimi",
       "ImagePrompt": "japanese_sashimi.jpg"
     },
     {
       "Id": 51,
       "Question": "Welches koreanische Gericht ist eine Schüssel mit warmem Reis, belegt mit gebratenem Gemüse, Chilipaste, oft einem Spiegelei und geschnittenem Fleisch?",
-      "Answer1": "Bibimbap",
+      "Answer1": "Japchae",
       "Answer2": "Kimchi Jjigae",
-      "Answer3": "Japchae",
+      "Answer3": "Bibimbap",
       "CorrectAnswer": "Bibimbap",
       "ImagePrompt": "korean_bibimbap.jpg"
     },
     {
       "Id": 52,
       "Question": "Welcher Salat aus dem Nahen Osten wird aus Bulgur, Petersilie, Minze, Tomaten und Zitronensaft zubereitet?",
-      "Answer1": "Taboulé",
+      "Answer1": "Schirazi-Salat",
       "Answer2": "Fattoush",
-      "Answer3": "Schirazi-Salat",
+      "Answer3": "Taboulé",
       "CorrectAnswer": "Taboulé",
       "ImagePrompt": "middle_eastern_tabbouleh.jpg"
     },
     {
       "Id": 53,
       "Question": "Welches spanische Gericht ist eine kalte Tomatensuppe, die oft im Sommer serviert wird?",
-      "Answer1": "Gazpacho",
-      "Answer2": "Fabada",
-      "Answer3": "Salmorejo",
+      "Answer1": "Salmorejo",
+      "Answer2": "Gazpacho",
+      "Answer3": "Fabada",
       "CorrectAnswer": "Gazpacho",
       "ImagePrompt": "spanish_gazpacho.jpg"
     },
     {
       "Id": 54,
       "Question": "Welche italienische Sauce besteht hauptsächlich aus Basilikum, Pinienkernen, Knoblauch, Käse und Olivenöl und stammt traditionell aus Genua?",
-      "Answer1": "Pesto",
-      "Answer2": "Ragù",
-      "Answer3": "Alfredo",
+      "Answer1": "Ragù",
+      "Answer2": "Alfredo",
+      "Answer3": "Pesto",
       "CorrectAnswer": "Pesto",
       "ImagePrompt": "italian_pesto_sauce.jpg"
     },
@@ -492,8 +490,8 @@
       "Id": 55,
       "Question": "Welches indische Brot ist mit Triebmittel hergestellt, wird im Tandoor gebacken und oft mit Butter oder Ghee bestrichen?",
       "Answer1": "Naan",
-      "Answer2": "Roti",
-      "Answer3": "Chapati",
+      "Answer2": "Chapati",
+      "Answer3": "Roti",
       "CorrectAnswer": "Naan",
       "ImagePrompt": "indian_naan_bread.jpg"
     },
@@ -509,17 +507,17 @@
     {
       "Id": 57,
       "Question": "Welches peruanische Gericht ist ein Pfannengericht aus mariniertem Rindfleisch mit Zwiebeln, Tomaten und Pommes frites, das oft mit Reis serviert wird?",
-      "Answer1": "Lomo Saltado",
-      "Answer2": "Ají de Gallina",
-      "Answer3": "Causa",
+      "Answer1": "Ají de Gallina",
+      "Answer2": "Causa",
+      "Answer3": "Lomo Saltado",
       "CorrectAnswer": "Lomo Saltado",
       "ImagePrompt": "peruvian_lomo_saltado.jpg"
     },
     {
       "Id": 58,
       "Question": "Welches indische Gericht ist ein reichhaltiges, cremiges Curry aus Tomaten, Butter und Sahne, das oft mit Hühnchen serviert wird?",
-      "Answer1": "Butter Chicken",
-      "Answer2": "Vindaloo",
+      "Answer1": "Vindaloo",
+      "Answer2": "Butter Chicken",
       "Answer3": "Dal Makhani",
       "CorrectAnswer": "Butter Chicken",
       "ImagePrompt": "indian_butter_chicken.jpg"
@@ -527,28 +525,27 @@
     {
       "Id": 59,
       "Question": "Welche japanische Garmethode besteht darin, Meeresfrüchte und Gemüse zu panieren und in heißem Öl zu frittieren?",
-      "Answer1": "Tempura",
+      "Answer1": "Yakitori",
       "Answer2": "Teriyaki",
-      "Answer3": "Yakitori",
+      "Answer3": "Tempura",
       "CorrectAnswer": "Tempura",
       "ImagePrompt": "japanese_tempura.jpg"
     },
     {
       "Id": 60,
       "Question": "Welche nordafrikanische Chilipaste aus Paprika, Knoblauch und Gewürzen wird oft mit Couscous und gegrilltem Fleisch serviert?",
-      "Answer1": "Harissa",
+      "Answer1": "Zhoug",
       "Answer2": "Chermoula",
-      "Answer3": "Zhoug",
+      "Answer3": "Harissa",
       "CorrectAnswer": "Harissa",
       "ImagePrompt": "north_african_harissa_paste.jpg"
     },
-
     {
       "Id": 61,
       "Question": "Welches marokkanische Gericht besteht aus gedämpften, groben Grießkörnern, die mit Fleisch und Gemüse serviert werden?",
-      "Answer1": "Couscous",
-      "Answer2": "Bulgur",
-      "Answer3": "Polenta",
+      "Answer1": "Bulgur",
+      "Answer2": "Polenta",
+      "Answer3": "Couscous",
       "CorrectAnswer": "Couscous",
       "ImagePrompt": "moroccan_couscous_stew.jpg"
     },
@@ -556,16 +553,16 @@
       "Id": 62,
       "Question": "Welches japanische Reisgericht wird mit Dashi, Sojasauce und verschiedenen Zutaten wie Gemüse oder Meeresfrüchten im gleichen Topf wie der Reis gekocht?",
       "Answer1": "Takikomi Gohan",
-      "Answer2": "Onigiri",
-      "Answer3": "Chirashi",
+      "Answer2": "Chirashi",
+      "Answer3": "Onigiri",
       "CorrectAnswer": "Takikomi Gohan",
       "ImagePrompt": "japanese_takikomi_gohan.jpg"
     },
     {
       "Id": 63,
       "Question": "Welches französische Gericht ist ein provenzalischer Gemüse-Eintopf, typischerweise mit Auberginen, Zucchini, Paprika und Tomaten?",
-      "Answer1": "Ratatouille",
-      "Answer2": "Cassoulet",
+      "Answer1": "Cassoulet",
+      "Answer2": "Ratatouille",
       "Answer3": "Pot-au-feu",
       "CorrectAnswer": "Ratatouille",
       "ImagePrompt": "french_ratatouille.jpg"
@@ -573,9 +570,9 @@
     {
       "Id": 64,
       "Question": "Welches nordische Gericht besteht aus Lachs, der mit Salz, Zucker und Dill gebeizt wird?",
-      "Answer1": "Gravlax",
+      "Answer1": "Smørrebrød",
       "Answer2": "Lutefisk",
-      "Answer3": "Smørrebrød",
+      "Answer3": "Gravlax",
       "CorrectAnswer": "Gravlax",
       "ImagePrompt": "nordic_gravlax_salmon.jpg"
     },
@@ -591,26 +588,26 @@
     {
       "Id": 66,
       "Question": "Welche japanische Garmethode besteht darin, Hähnchenspieße über Holzkohle zu grillen, oft mit Tare-Sauce oder Salz gewürzt?",
-      "Answer1": "Yakitori",
-      "Answer2": "Teriyaki",
-      "Answer3": "Okonomiyaki",
+      "Answer1": "Teriyaki",
+      "Answer2": "Okonomiyaki",
+      "Answer3": "Yakitori",
       "CorrectAnswer": "Yakitori",
       "ImagePrompt": "japanese_yakitori_skewers.jpg"
     },
     {
       "Id": 67,
       "Question": "Welches äthiopische Gericht ist ein scharfer Eintopf, der normalerweise aus Huhn, hartgekochten Eiern und der Gewürzmischung Berbere besteht?",
-      "Answer1": "Doro Wat",
+      "Answer1": "Kitfo",
       "Answer2": "Shiro",
-      "Answer3": "Kitfo",
+      "Answer3": "Doro Wat",
       "CorrectAnswer": "Doro Wat",
       "ImagePrompt": "ethiopian_doro_wat.jpg"
     },
     {
       "Id": 68,
       "Question": "Welches georgische Gericht ist ein mit Käse gefülltes Brot, oft in Bootsform, das mit Ei und Butter belegt wird?",
-      "Answer1": "Khachapuri",
-      "Answer2": "Khinkali",
+      "Answer1": "Khinkali",
+      "Answer2": "Khachapuri",
       "Answer3": "Lobio",
       "CorrectAnswer": "Khachapuri",
       "ImagePrompt": "georgian_khachapuri.jpg"
@@ -618,9 +615,9 @@
     {
       "Id": 69,
       "Question": "Welches japanische Gericht besteht aus dünnen Rindfleischscheiben, die schnell in einer süßen Soja-Brühe mit Gemüse und Nudeln direkt am Tisch gegart werden?",
-      "Answer1": "Sukiyaki",
-      "Answer2": "Shabu-Shabu",
-      "Answer3": "Katsudon",
+      "Answer1": "Katsudon",
+      "Answer2": "Sukiyaki",
+      "Answer3": "Shabu-Shabu",
       "CorrectAnswer": "Sukiyaki",
       "ImagePrompt": "japanese_sukiyaki_hotpot.jpg"
     },
@@ -637,8 +634,8 @@
       "Id": 71,
       "Question": "Welches indonesische Gericht ist ein gebratener Reis, der oft mit süßer Sojasauce gewürzt und mit Toppings wie Ei und Krabbenchips serviert wird?",
       "Answer1": "Nasi Goreng",
-      "Answer2": "Satay",
-      "Answer3": "Rendang",
+      "Answer2": "Rendang",
+      "Answer3": "Satay",
       "CorrectAnswer": "Nasi Goreng",
       "ImagePrompt": "indonesian_nasi_goreng.jpg"
     },
@@ -654,18 +651,18 @@
     {
       "Id": 73,
       "Question": "Welches indische Gericht ist ein säuerlich-scharfes Curry aus Goa, das oft mit Schweinefleisch und Essig zubereitet wird?",
-      "Answer1": "Vindaloo",
+      "Answer1": "Saag",
       "Answer2": "Korma",
-      "Answer3": "Saag",
+      "Answer3": "Vindaloo",
       "CorrectAnswer": "Vindaloo",
       "ImagePrompt": "goan_vindaloo_curry.jpg"
     },
     {
       "Id": 74,
       "Question": "Welches japanische Gericht ist eine Schüssel Reis, belegt mit einem panierten und frittierten Schweineschnitzel und Ei in Brühe?",
-      "Answer1": "Katsudon",
+      "Answer1": "Oyakodon",
       "Answer2": "Gyudon",
-      "Answer3": "Oyakodon",
+      "Answer3": "Katsudon",
       "CorrectAnswer": "Katsudon",
       "ImagePrompt": "japanese_katsudon_bowl.jpg"
     },
@@ -681,9 +678,9 @@
     {
       "Id": 76,
       "Question": "Welches japanische Gericht ist eine Schüssel Reis, die mit rohen Fischscheiben und anderem Meeresfrüchten belegt wird und manchmal als Streusushi bezeichnet wird?",
-      "Answer1": "Chirashi",
-      "Answer2": "Nigiri",
-      "Answer3": "Maki",
+      "Answer1": "Maki",
+      "Answer2": "Chirashi",
+      "Answer3": "Nigiri",
       "CorrectAnswer": "Chirashi",
       "ImagePrompt": "japanese_chirashi_bowl.jpg"
     },
@@ -700,36 +697,35 @@
       "Id": 78,
       "Question": "Welcher japanische Eintopf wird mit Curryraspel, Gemüse und Fleisch zubereitet und üblicherweise über Reis serviert?",
       "Answer1": "Japanisches Curry mit Reis",
-      "Answer2": "Oden",
-      "Answer3": "Nikujaga",
+      "Answer2": "Nikujaga",
+      "Answer3": "Oden",
       "CorrectAnswer": "Japanisches Curry mit Reis",
       "ImagePrompt": "japanese_curry_rice.jpg"
     },
     {
       "Id": 79,
       "Question": "Welche peruanische Sauce aus gelben Chilischoten und Käse wird häufig über gekochten Kartoffeln serviert?",
-      "Answer1": "Huancaína-Sauce",
-      "Answer2": "Rocoto-Sauce",
-      "Answer3": "Chimichurri",
+      "Answer1": "Chimichurri",
+      "Answer2": "Huancaína-Sauce",
+      "Answer3": "Rocoto-Sauce",
       "CorrectAnswer": "Huancaína-Sauce",
       "ImagePrompt": "peruvian_papa_a_la_huancaina.jpg"
     },
     {
       "Id": 80,
       "Question": "Welches nordische, offenes Sandwich wird typischerweise mit Roggenbrot und Belägen wie Hering, Käse oder Aufschnitt zubereitet?",
-      "Answer1": "Smørrebrød",
-      "Answer2": "Lefse",
+      "Answer1": "Lefse",
+      "Answer2": "Smørrebrød",
       "Answer3": "Kanelbulle",
       "CorrectAnswer": "Smørrebrød",
       "ImagePrompt": "danish_smotherbrod_open_sandwiches.jpg"
     },
-
     {
       "Id": 81,
       "Question": "Welches philippinische Gericht ist ein Eintopf, bei dem Fleisch, meist Huhn oder Schwein, in Essig, Sojasauce, Knoblauch und Lorbeerblättern geschmort wird?",
-      "Answer1": "Adobo",
-      "Answer2": "Sinigang",
-      "Answer3": "Kare-Kare",
+      "Answer1": "Kare-Kare",
+      "Answer2": "Adobo",
+      "Answer3": "Sinigang",
       "CorrectAnswer": "Adobo",
       "ImagePrompt": "filipino_adobo_stew.jpg"
     },
@@ -746,26 +742,26 @@
       "Id": 83,
       "Question": "Welcher koreanische Eintopf wird aus Kimchi, Tofu und oft Schweinefleisch gekocht und ergibt eine scharfe und saure Suppe?",
       "Answer1": "Kimchi Jjigae",
-      "Answer2": "Sundubu Jjigae",
-      "Answer3": "Doenjang Jjigae",
+      "Answer2": "Doenjang Jjigae",
+      "Answer3": "Sundubu Jjigae",
       "CorrectAnswer": "Kimchi Jjigae",
       "ImagePrompt": "korean_kimchi_jjigae.jpg"
     },
     {
       "Id": 84,
       "Question": "Welches ägyptische Streetfood-Gericht besteht aus Reis, Linsen, Pasta, Tomatensoße und gebratenen Zwiebeln, die geschichtet werden?",
-      "Answer1": "Koshari",
+      "Answer1": "Molokhia",
       "Answer2": "Ful Medames",
-      "Answer3": "Molokhia",
+      "Answer3": "Koshari",
       "CorrectAnswer": "Koshari",
       "ImagePrompt": "egyptian_koshari_street_food.jpg"
     },
     {
       "Id": 85,
       "Question": "Welche japanische Kochtechnik besteht darin, Zutaten in Panko-Paniermehl zu wenden, auf Spieße zu stecken und zu frittieren, serviert mit Dip-Sauce?",
-      "Answer1": "Kushikatsu",
-      "Answer2": "Robatayaki",
-      "Answer3": "Shabu-Shabu",
+      "Answer1": "Robatayaki",
+      "Answer2": "Shabu-Shabu",
+      "Answer3": "Kushikatsu",
       "CorrectAnswer": "Kushikatsu",
       "ImagePrompt": "japanese_kushikatsu_skewers.jpg"
     },
@@ -773,8 +769,8 @@
       "Id": 86,
       "Question": "Welches philippinische Gericht ist eine saure Suppe aus Tamarinde, die oft Schweinefleisch oder Garnelen und verschiedene Gemüsesorten enthält?",
       "Answer1": "Sinigang",
-      "Answer2": "Bulalo",
-      "Answer3": "Laing",
+      "Answer2": "Laing",
+      "Answer3": "Bulalo",
       "CorrectAnswer": "Sinigang",
       "ImagePrompt": "filipino_sinigang_soup.jpg"
     },
@@ -799,8 +795,8 @@
     {
       "Id": 89,
       "Question": "Welche peruanisch-japanische Fusionsküche kombiniert rohen Fisch mit peruanischen Zutaten wie Ají-Chilischoten und Zitrusfrüchten?",
-      "Answer1": "Nikkei-Küche",
-      "Answer2": "Tex-Mex-Küche",
+      "Answer1": "Tex-Mex-Küche",
+      "Answer2": "Nikkei-Küche",
       "Answer3": "Kreolische Küche",
       "CorrectAnswer": "Nikkei-Küche",
       "ImagePrompt": "nikkei_cuisine_fusion_platter.jpg"
@@ -818,16 +814,16 @@
       "Id": 91,
       "Question": "Welches japanische Gericht besteht darin, dünne Fleischscheiben kurz in heißer Brühe zu schwenken und sie dann in Saucen zu tauchen, bevor man sie isst?",
       "Answer1": "Shabu-Shabu",
-      "Answer2": "Sukiyaki",
-      "Answer3": "Yakiniku",
+      "Answer2": "Yakiniku",
+      "Answer3": "Sukiyaki",
       "CorrectAnswer": "Shabu-Shabu",
       "ImagePrompt": "japanese_shabu_shabu_hotpot.jpg"
     },
     {
       "Id": 92,
       "Question": "Welche argentinische Sauce aus Petersilie, Knoblauch, Oregano und Öl wird häufig zu gegrilltem Fleisch serviert?",
-      "Answer1": "Chimichurri",
-      "Answer2": "Salsa Criolla",
+      "Answer1": "Salsa Criolla",
+      "Answer2": "Chimichurri",
       "Answer3": "Ají Amarillo",
       "CorrectAnswer": "Chimichurri",
       "ImagePrompt": "argentinian_chimichurri_steak.jpg"
@@ -835,44 +831,44 @@
     {
       "Id": 93,
       "Question": "Welcher japanische Grillstil umfasst kleine Stücke verschiedener Speisen, die auf Spießen über Holzkohle gegrillt werden, ähnlich wie Yakitori, aber auch mit Gemüse und anderem Fleisch?",
-      "Answer1": "Kushiyaki",
-      "Answer2": "Teppanyaki",
-      "Answer3": "Robatayaki",
+      "Answer1": "Robatayaki",
+      "Answer2": "Kushiyaki",
+      "Answer3": "Teppanyaki",
       "CorrectAnswer": "Kushiyaki",
       "ImagePrompt": "japanese_kushiyaki_assorted_skewers.jpg"
     },
     {
       "Id": 94,
       "Question": "Welches westafrikanische Gericht aus dem Senegal besteht aus Fisch, Reis und Gemüse, die zusammen gekocht werden, und gilt oft als Nationalgericht?",
-      "Answer1": "Thieboudienne",
-      "Answer2": "Egusi-Suppe",
-      "Answer3": "Ndolé",
+      "Answer1": "Egusi-Suppe",
+      "Answer2": "Ndolé",
+      "Answer3": "Thieboudienne",
       "CorrectAnswer": "Thieboudienne",
       "ImagePrompt": "senegalese_thieboudienne_rice_fish.jpg"
     },
     {
       "Id": 95,
       "Question": "Welches japanische Gericht ist eine Reisschüssel, die mit Huhn und Ei in einer Dashi-basierten Sauce belegt ist und manchmal als Eltern-Kind-Schüssel bezeichnet wird?",
-      "Answer1": "Oyakodon",
-      "Answer2": "Gyudon",
-      "Answer3": "Katsudon",
+      "Answer1": "Katsudon",
+      "Answer2": "Oyakodon",
+      "Answer3": "Gyudon",
       "CorrectAnswer": "Oyakodon",
       "ImagePrompt": "japanese_oyakodon_bowl.jpg"
     },
     {
       "Id": 96,
       "Question": "Welcher indische Snack ist ein frittiertes Teigtaschen-Gebäck, das mit gewürzten Kartoffeln und Erbsen gefüllt ist und oft mit Chutneys serviert wird?",
-      "Answer1": "Samosa",
+      "Answer1": "Bhaji",
       "Answer2": "Pakora",
-      "Answer3": "Bhaji",
+      "Answer3": "Samosa",
       "CorrectAnswer": "Samosa",
       "ImagePrompt": "indian_samosas_with_chutney.jpg"
     },
     {
       "Id": 97,
       "Question": "Welches japanische Gericht besteht aus gewürztem Reis, der zu Rechtecken geformt und mit gegrilltem Aal und einer süßen Soja-Glasur belegt wird?",
-      "Answer1": "Unagi-Sushi",
-      "Answer2": "Inari-Sushi",
+      "Answer1": "Inari-Sushi",
+      "Answer2": "Unagi-Sushi",
       "Answer3": "Temaki",
       "CorrectAnswer": "Unagi-Sushi",
       "ImagePrompt": "japanese_unagi_sushi_platter.jpg"
@@ -880,9 +876,9 @@
     {
       "Id": 98,
       "Question": "Welches mexikanische Frühstücksgericht besteht aus frittierten Tortillastücken, die in roter oder grüner Salsa geköchelt und mit Käse und manchmal Eiern belegt werden?",
-      "Answer1": "Chilaquiles",
-      "Answer2": "Huevos Rancheros",
-      "Answer3": "Molletes",
+      "Answer1": "Molletes",
+      "Answer2": "Chilaquiles",
+      "Answer3": "Huevos Rancheros",
       "CorrectAnswer": "Chilaquiles",
       "ImagePrompt": "mexican_chilaquiles_breakfast.jpg"
     },
@@ -890,17 +886,17 @@
       "Id": 99,
       "Question": "Welches japanische Streetfood besteht aus kleinen Teigbällchen, die mit gewürfeltem Oktopus gefüllt und mit Sauce, Mayonnaise und Bonitoflocken garniert werden?",
       "Answer1": "Takoyaki",
-      "Answer2": "Taiyaki",
-      "Answer3": "Dorayaki",
+      "Answer2": "Dorayaki",
+      "Answer3": "Taiyaki",
       "CorrectAnswer": "Takoyaki",
       "ImagePrompt": "japanese_takoyaki_street_food.jpg"
     },
     {
       "Id": 100,
       "Question": "Welches südafrikanische Gericht ist ein Auflauf aus gewürztem Hackfleisch, der mit einer eibasierten Schicht überbacken wird und oft als Nationalgericht gilt?",
-      "Answer1": "Bobotie",
-      "Answer2": "Bunny Chow",
-      "Answer3": "Boerewors",
+      "Answer1": "Boerewors",
+      "Answer2": "Bobotie",
+      "Answer3": "Bunny Chow",
       "CorrectAnswer": "Bobotie",
       "ImagePrompt": "south_african_bobotie_casserole.jpg"
     }
